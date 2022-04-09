@@ -12,7 +12,7 @@ Duck Life: [Click Here to Play](https://outred.github.io/Ducklife.html)
 
 Rip off Flappy Bird [Click Here to Play](https://outred.github.io/Flappybird.html)
 
-2048: [Click Here to Play](https://outred.github.io/2048.html)
+2048: [Click Here to Play](https://outred.github.io/2048.html) (Updated Version)
 
 ### Markdown
 
