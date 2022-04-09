@@ -2,7 +2,7 @@
 
 This website has several fun html games. They are all working and functional.
 
-Simple Snake Game: [click here to play] (outred.github.io/index.html)
+Simple Pong Game: [click here to play](outred.github.io/index.html)
 
 
 ### Markdown
