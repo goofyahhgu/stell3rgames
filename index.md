@@ -6,6 +6,7 @@ Simple Pong Game (2 player, one person uses arrow keys and other person use WASD
 
 Simple Snake Game: [Click Here to Play](https://outred.github.io/Snake.html)
 
+Cookie Clicker: [Click Here to Play](https://outred.github.io/Cookie.html)
 
 ### Markdown
 
