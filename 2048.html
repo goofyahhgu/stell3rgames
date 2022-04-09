@@ -1,111 +1,49 @@
-<html lang="en">
-
+<!DOCTYPE html>
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2048</title>
-    <!-- Bootstrap css -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
-    <!-- custom css -->
-    <link rel="stylesheet" href="style.css">
-
+	<meta charset = "UTF-8"/>
+	<title>2048</title>
+	<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=yes"/>
+	<link rel = "stylesheet" type = "text/css" href = "css/2048.css">
+	<script type = "text/javascript" src = "js/jquery.min.js"></script>
+	<script type = "text/javascript" src = "js/main2048.js"></script>
 </head>
-
 <body>
-    <div class="container-fluid">
-        <div id="title" class=" alert alert-danger">
-            THE 2048 GAME
-            <span id="subtitle"> by Aryan Saini</span>
-        </div>
-
-        <div class="score-container alert alert-info">
-            <div class="score-title"> SCORE: </div>
-            <span id="score">0</span>
-        </div>
-
-        <div class="ruleRight">
-            <div class="container-fluid" id="rules">
-                <button class="btn btn-outline-info" type="button" data-bs-toggle="offcanvas"
-                    data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">How to play</button>
-
-                <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight"
-                    aria-labelledby="offcanvasRightLabel">
-                    <div class="offcanvas-header">
-                        <h5 id="offcanvasRightLabel">It's easy</h5>
-                        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
-                            aria-label="Close"></button>
-                    </div>
-                    <div class="offcanvas-body">
-                        <strong class="important">How to play:</strong> Use your <strong>arrow keys</strong> to move the
-                        tiles. When two tiles with the same number touch, they <strong>merge into one!
-                            <p>You win the game if you reach the number <strong>2048</strong>, you lose if the grid is
-                                left with no zeros.</p>
-                        </strong>
-                    </div>
-                </div>
-
-
-                <button class="btn btn-outline-danger" type="button" data-bs-toggle="offcanvas"
-                    data-bs-target="#contact" aria-controls="offcanvasTop">Contact Me</button>
-
-                <div class="offcanvas offcanvas-top" tabindex="-1" id="contact" aria-labelledby="offcanvasRightLabel">
-                    <div class="offcanvas-header">
-                        <h5 id="offcanvasRightLabel">It's easy, once again</h5>
-                        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
-                            aria-label="Close"></button>
-                    </div>
-                    <div class="offcanvas-body">
-
-                        <div>LinkedIn: <a href="https://www.linkedin.com/in/aryan-saini-03431b109/"> Aryan Saini
-                            </a></div>
-                        Mail me: aryan.saini.e21@nsut.ac.in
-                        </strong>
-                    </div>
-                </div>
-
-                <button class="btn btn-outline-success" id="reset"> Reset</button>
-            </div>
-
-        </div>
-
-
-        <div id="result"></div>
-
-        <div class="grid ">
-            <!-- THIS IS THE MAIN GRID -->
-
-
-        </div>
-
-
-    </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <!-- Bootstrap Js -->
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"
-        integrity="sha384-eMNCOe7tC1doHpGoWe/6oMVemdAVTMs2xqW4mwXrXsW0L84Iytr2wi5v2QjrP/xp"
-        crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js"
-        integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/"
-        crossorigin="anonymous"></script>
-
-    <!-- custom js -->
-    <script src="app.js"></script>
+	<header>
+		<h1>2048</h1>
+		<a href ="javascript:newgame()" id = "newgame">新游戏</a>
+		<p>分数:<span id = "score">0</span></p>
+	</header>
+	<div id = "grid-container">
+		<div class = "grid-cell" id = "grid-cell-0-0"></div>
+		<div class = "grid-cell" id = "grid-cell-0-1"></div>
+		<div class = "grid-cell" id = "grid-cell-0-2"></div>
+		<div class = "grid-cell" id = "grid-cell-0-3"></div>
+		
+		<div class = "grid-cell" id = "grid-cell-1-0"></div>
+		<div class = "grid-cell" id = "grid-cell-1-1"></div>
+		<div class = "grid-cell" id = "grid-cell-1-2"></div>
+		<div class = "grid-cell" id = "grid-cell-1-3"></div>
+		
+		<div class = "grid-cell" id = "grid-cell-2-0"></div>
+		<div class = "grid-cell" id = "grid-cell-2-1"></div>
+		<div class = "grid-cell" id = "grid-cell-2-2"></div>
+		<div class = "grid-cell" id = "grid-cell-2-3"></div>
+		
+		<div class = "grid-cell" id = "grid-cell-3-0"></div>
+		<div class = "grid-cell" id = "grid-cell-3-1"></div>
+		<div class = "grid-cell" id = "grid-cell-3-2"></div>
+		<div class = "grid-cell" id = "grid-cell-3-3"></div>
+		<div class = "dialog-success">
+			<div class = "success">恭喜您完成2048</div>
+			<div><a href ="javascript:again()" id = "newgame">重新开始</a></div>
+			<div><a href ="javascript:conti()" id = "continue">继续挑战</a></div>
+		</div>
+		<div class = "dialog-fail">
+			<div class = "fail">很遗憾您失败了</div>
+			<div><a href ="javascript:again()" id = "newgame">重新开始</a></div>
+		</div>
+	</div>
+	
 </body>
-
 </html>
