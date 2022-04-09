@@ -8,6 +8,7 @@ Simple Snake Game: [Click Here to Play](https://outred.github.io/Snake.html)
 
 Cookie Clicker: [Click Here to Play](https://outred.github.io/Cookie.html)
 
+Duck Life: [Click Here to Play](https://outred.github.io/Ducklife.html)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
