@@ -16,6 +16,8 @@ Rip off Flappy Bird [Click Here to Play](https://outred.github.io/Flappybird.htm
 
 Click [here](https://outred.github.io/games.json) for LOTS of more games.
 
+Getting over it: [Click Here to Play](https://sneakytime.com/rr/#.YKj6f2kpDqs)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
