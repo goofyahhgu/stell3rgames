@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<javascript>
+<html>
 <head>
 <title>Cookie Clicker</title>
 <!--
