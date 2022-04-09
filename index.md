@@ -6,9 +6,13 @@ Simple Pong Game (2 player, one person uses arrow keys and other person use WASD
 
 Simple Snake Game: [Click Here to Play](https://outred.github.io/Snake.html)
 
-Cookie Clicker: [Click Here to Play](https://outred.github.io/Cookie.html)
+Cookie Clicker: [Click Here to Play](https://outred.github.io/Cookie.html) (Currently under maintenance will be up as soon as possible)
 
 Duck Life: [Click Here to Play](https://outred.github.io/Ducklife.html)
+
+Rip off Flappy Bird [Click Here to Play](https://outred.github.io/Flappybird.html)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
