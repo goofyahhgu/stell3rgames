@@ -2,17 +2,17 @@
 
 This website has several fun html games. They are all working and functional.
 
-Simple Pong Game (2 player, one person uses arrow keys and other person use WASD): [Click Here to Play](https://outred.github.io/Index.html)
+Simple Pong Game (2 player, one person uses arrow keys and other person use WASD): [Click Here to Play](https://outred.github.io/Index.html) (100% working)
 
-Simple Snake Game: [Click Here to Play](https://outred.github.io/Snake.html)
+Simple Snake Game: [Click Here to Play](https://outred.github.io/Snake.html) (100% working)
 
 Cookie Clicker: [Click Here to Play](https://outred.github.io/package.script.js) (Currently under maintenance will be up as soon as possible)
 
-Duck Life: [Click Here to Play](https://outred.github.io/Ducklife.html)
+Duck Life: [Click Here to Play](https://outred.github.io/Ducklife.html) (Under maintenance)
 
-Rip off Flappy Bird [Click Here to Play](https://outred.github.io/Flappybird.html)
+Rip off Flappy Bird [Click Here to Play](https://outred.github.io/Flappybird.html) (Under maintenance)
 
-2048: [Click Here to Play](https://outred.github.io/2048.html) (Updated Version)
+2048: [Click Here to Play](https://outred.github.io/2048.html) (Updated Version under maintenace)
 
 ### Markdown
 
