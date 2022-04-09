@@ -3,6 +3,7 @@
 This website has several fun html games. They are all working and functional.
 
 Simple Pong Game (2 player, one person uses arrow keys and other person use WASD): [Click Here to Play](https://outred.github.io/Index.html)
+Simple Snake Game: [Click Here to Play](outred.github.io/Snake.html)
 
 
 ### Markdown
