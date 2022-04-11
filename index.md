@@ -17,6 +17,8 @@ Flappy Bird [Click Here to Play](https://outred.github.io/Flappy.html) (Under ma
 2048: [Click Here to Play](https://outred.github.io/2048.html) (100% working)
 
 Simple shooter game: [Click here to play](https://outred.github.io/Shooter.html)
+
+Dinosaur game: [Click here to play](https://outred.github.io/Dinosaurgame.html)
 Click [here](https://outred.github.io/games.json) for LOTS of more games.
 
 
