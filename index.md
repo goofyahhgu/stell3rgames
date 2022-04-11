@@ -2,7 +2,7 @@
 
 This website has several fun html games. They are all working and functional.
 
-Simple Pong Game Level 1(2 player, one person uses arrow keys and other person use WASD): [Click Here to Play](https://outred.github.io/Index.html) Level 2: [Click Here to Play](https://outred.github.io/Ponglvl2.html) Level 3 (Only 1.26% of people can beat this: [Click Here to Play](https://outred.github.io/Ponglvl3.html)(100% working)
+Simple Pong Game Level 1(2 player, one person uses arrow keys and other person use WASD): [Click Here to Play](https://outred.github.io/Pong.html) Level 2: [Click Here to Play](https://outred.github.io/Ponglvl2.html) Level 3 (Only 1.26% of people can beat this: [Click Here to Play](https://outred.github.io/Ponglvl3.html)(100% working)
 
 Simple Snake Game: [Click Here to Play](https://outred.github.io/Snake.html) (100% working)
 
@@ -18,7 +18,7 @@ Flappy Bird [Click Here to Play](https://outred.github.io/Flappy.html) (Under ma
 
 Simple shooter game: [Click here to play](https://outred.github.io/Shooter.html)
 
-Dinosaur game: [Click here to play](https://outred.github.io/Dinosaurgame.html)
+Dinosaur game: [Click here to play](https://outred.github.io/index.html)
 
 Click [here](https://outred.github.io/games.json) for LOTS of more games.
 
