@@ -6,6 +6,8 @@ Simple Pong Game (2 player, one person uses arrow keys and other person use WASD
 
 Simple Snake Game: [Click Here to Play](https://outred.github.io/Snake.html) (100% working)
 
+Better Snake Game: [Click Here to Play](https://outred.github.io/Bettersnake.html) (100% working)
+
 Cookie Clicker: [Click Here to Play](https://outred.github.io/package.JS.js) (Currently under maintenance will be up as soon as possible, should be up in 24 hours)
 
 Duck Life: [Click Here to Play](https://outred.github.io/Ducklife.html) (Under maintenance)
