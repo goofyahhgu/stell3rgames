@@ -16,7 +16,10 @@ Rip off Flappy Bird [Click Here to Play](https://outred.github.io/Flappybird.htm
 
 2048: [Click Here to Play](https://outred.github.io/2048.html) (100% working)
 
+Simple shooter game: [Click here to play](https://outred.github.io/Shooter.html)
 Click [here](https://outred.github.io/games.json) for LOTS of more games.
+
+
 
 Getting over it, MAKE SURE TO HAVE VOLUME ALL THE WAY DOWN: [Click Here to Play](https://sneakytime.com/rr/#.YKj6f2kpDqs)
 
