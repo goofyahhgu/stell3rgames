@@ -12,7 +12,7 @@ Cookie Clicker: [Click Here to Play](https://outred.github.io/package.JS.js) (Cu
 
 Duck Life: [Click Here to Play](https://outred.github.io/Ducklife.html) (Under maintenance)
 
-Rip off Flappy Bird [Click Here to Play](https://outred.github.io/Flappybird.html) (Under maintenance)
+Flappy Bird [Click Here to Play](https://outred.github.io/Flappy.html) (Under maintenance)
 
 2048: [Click Here to Play](https://outred.github.io/2048.html) (100% working)
 
