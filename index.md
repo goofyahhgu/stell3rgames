@@ -16,7 +16,7 @@ Rip off Flappy Bird [Click Here to Play](https://outred.github.io/Flappybird.htm
 
 Click [here](https://outred.github.io/games.json) for LOTS of more games.
 
-Getting over it: [Click Here to Play](https://sneakytime.com/rr/#.YKj6f2kpDqs)
+Getting over it, MAKE SURE TO HAVE VOLUME ALL THE WAY DOWN: [Click Here to Play](https://sneakytime.com/rr/#.YKj6f2kpDqs)
 
 ### Markdown
 
