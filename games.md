@@ -8,11 +8,11 @@ Simple Snake Game: [Click Here to Play](https://outred.github.io/Snake.html) (10
 
 Better Snake Game: [Click Here to Play](https://outred.github.io/Bettersnake.html) (100% working)
 
-Cookie Clicker: [Click Here to Play](https://outred.github.io/package.JS.js) (Currently under maintenance will be up as soon as possible, should be up in the next week)
+Cookie Clicker: [Click Here to Play](https://outred.github.io/JS.js) (Currently under maintenance will be up as soon as possible, should be up in the next week)
 
 Duck Life: [Click Here to Play](https://outred.github.io/Ducklife.html) (Under maintenance)
 
-Flappy Bird [Click Here to Play](https://outred.github.io/bestflappybird.js) (Under maintenance)
+Flappy Bird [Click Here to Play](https://outred.github.io/bestflappybird.html) (Under maintenance)
 
 2048: [Click Here to Play](https://outred.github.io/2048.html) (100% working)
 
