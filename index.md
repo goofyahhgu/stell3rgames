@@ -1,4 +1,4 @@
-## Welcome to OutRed Games!
+## Welcome to OutRed Games! Enter the password down below. When you put the correct password, it will say it's wrong. Put it in a second time and it will work.
 
 <SCRIPT>
 function passWord() {
