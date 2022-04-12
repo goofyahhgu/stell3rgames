@@ -23,7 +23,7 @@ return " ";
 </SCRIPT>
 <CENTER>
 <FORM>
-<input type="button" value="Enter Protected Area" onClick="passWord()">
+<input type="button" value="Enter Game Area" onClick="passWord()">
 </FORM>
 </CENTER>
 This website has several fun html games. They are all working and functional. Here is the [password](https://outred.github.io/Password.html)
