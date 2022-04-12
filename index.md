@@ -23,7 +23,7 @@ return " ";
 </SCRIPT>
 <CENTER>
 <FORM>
-<input type="button" value="Enter Game Area" onClick="passWord()">
+<input type="button" value="Click This to Enter Password" onClick="passWord()">
 </FORM>
 </CENTER>
 
