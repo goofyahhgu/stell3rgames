@@ -1,6 +1,6 @@
 ## Welcome to OutRed Games!
 
-This website has several fun html games. They are all working and functional.
+This website has several fun html games. They are all working and functional. Here is the [password](https://outred.github.io/Password.html
 
 Simple Pong Game Level 1(2 player, one person uses arrow keys and other person use WASD): [Click Here to Play](https://outred.github.io/Pong.html) Level 2: [Click Here to Play](https://outred.github.io/Ponglvl2.html) Level 3 (Only 1.26% of people can beat this: [Click Here to Play](https://outred.github.io/Ponglvl3.html)(100% working)
 
