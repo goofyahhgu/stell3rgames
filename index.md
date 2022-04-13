@@ -8,7 +8,7 @@ while (testV < 3) {
 if (!pass1) 
 history.go(-1);
 if (pass1.toLowerCase() == "letmein") {
-alert('You Got it Right!');
+alert('Access Granted. 拾');
 window.open('games.html');
 break;
 } 
