@@ -2,7 +2,7 @@ CURRENTLY UNDER MAINTENACE, CURRENTLY FIXING ALL OF THE GAMES RIGHT NOW
 
 (Games are being added by the second)
 
-  ([CLICK HERE FOR EMERGENCY!!!(https://outred.github.io/games.md))
+  ([CLICK HERE FOR EMERGENCY!!!](https://outred.github.io/games.md))
   
   
   
