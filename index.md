@@ -1,4 +1,4 @@
-## Welcome to OutRed Games! Enter the password down below. When you put the correct password, it will take you to all the games. The password changes once a week.
+
 
 <!DOCTYPE html>
 <html>
@@ -6,7 +6,7 @@
  <title>Password</title>
  <style>
   body {
-   background-color: lightblue;
+   background-color: white;
    padding: 30px;
   }
  </style>
@@ -26,7 +26,7 @@
  <p style="font-size: 30pt;">OutRed Games</p>
  <p>Please enter the password to view this website.</p>
  <p>Password:<input id="passwordBox" type="password"/></p>
- <a href="games.md" onclick="return checkPassword();">
+ <a href="https://outred.github.io/games.md" onclick="return checkPassword();">
   Click here to submit password and play games
  </a>
 </body>
