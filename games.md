@@ -20,6 +20,8 @@ Simple shooter game: [Click here to play](https://outred.github.io/Shooter.html)
 
 Dinosaur game: [Click here to play](https://outred.github.io/index.html)
 
+Tetris [Click here to play](https://outred.github.io/tetris.html)
+
 Click [here](https://outred.github.io/games.json) for LOTS of more games.
 
 
