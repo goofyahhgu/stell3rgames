@@ -24,6 +24,8 @@ Tetris [Click here to play](https://outred.github.io/tetris.html)
 
 Tank Trouble [Click here to play](https://outred.github.io/tanktrouble.html)
 
+Super Hot [Click here to play](https://outred.github.io/superhotmiami.html)
+
 Click [here](https://outred.github.io/games.json) for LOTS of more games.
 
 
