@@ -4,9 +4,9 @@ This website has several fun html games. They are all working and functional.
 
 Simple Pong Game Level 1(2 player, one person uses arrow keys and other person use WASD): [Click Here to Play](https://outred.github.io/Pong.html) Level 2: [Click Here to Play](https://outred.github.io/Ponglvl2.html) Level 3 (Only 1.26% of people can beat this: [Click Here to Play](https://outred.github.io/Ponglvl3.html)(100% working)
 
-Simple Snake Game: [Click Here to Play](https://outred.github.io/Snake.html) (100% working)
+Simple Snake Game: [Click Here to Play](https://outred.github.io/Snake.html) 
 
-Better Snake Game: [Click Here to Play](https://outred.github.io/Bettersnake.html) (100% working)
+Better Snake Game: [Click Here to Play](https://outred.github.io/Bettersnake.html) 
 
 Cookie Clicker: [Click Here to Play](https://outred.github.io/workingcookieclicker.html) (Currently under maintenance will be up as soon as possible, should be up in the next week)
 
@@ -22,19 +22,19 @@ Dinosaur game: [Click here to play](https://outred.github.io/index.html) (under 
 
 Tetris [Click here to play](https://outred.github.io/tetris.html) (under maintenance)
 
-Tank Trouble (Does not work on iOS) [Click here to play](https://outred.github.io/tanktrouble.html) (100% working, doesn't work on iOS)
+Tank Trouble (Does not work on iOS) [Click here to play](https://outred.github.io/tanktrouble.html) (Does not work on iPads)
 
-Super Hot (Does not work on iOS) [Click here to play](https://outred.github.io/superhotmiami.html) (100% working, doesn't work on iOS)
+Super Hot (Does not work on iOS) [Click here to play](https://outred.github.io/superhotmiami.html) (Does not work on iPads)
 
-Chess: [Click here to play](https://outred.github.io/chess.html) (100% working)
+Chess: [Click here to play](https://outred.github.io/chess.html) 
 
-Reversi [Click here to play](https://outred.github.io/reversi.html) (100% working)
+Reversi [Click here to play](https://outred.github.io/reversi.html) 
 
-Checkers [Click here to play](https://outred.github.io/checkers.html) (100% working)
+Checkers [Click here to play](https://outred.github.io/checkers.html) 
 
 Shell Shockers: [Click here to play](https://outred.github.io/shellshockers.html) (confusing)
 
-Narrow escape: [Click here to play](https://outred.github.io/narrowescape.html) (100% working)
+Narrow escape: [Click here to play](https://outred.github.io/narrowescape.html) 
 
 Click [here](https://outred.github.io/games.json) for LOTS of more games. (under maintenance)
 
