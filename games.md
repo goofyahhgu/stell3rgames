@@ -30,6 +30,8 @@ Chess: [Click here to play](https://outred.github.io/chess.html) (100% working)
 
 Reversi [Click here to play](https://outred.github.io/reversi.html) (100% working)
 
+Checkers [Click here to play](https://outred.github.io/checkers.html) (100% working)
+
 Shell Shockers: [Click here to play](https://outred.github.io/shellshockers.html) (confusing)
 
 Click [here](https://outred.github.io/games.json) for LOTS of more games. (under maintenance)
