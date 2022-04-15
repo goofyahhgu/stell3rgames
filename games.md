@@ -22,6 +22,8 @@ Dinosaur game: [Click here to play](https://outred.github.io/index.html)
 
 Tetris [Click here to play](https://outred.github.io/tetris.html)
 
+Tank Trouble [Click here to play](https://outred.github.io/tanktrouble.html)
+
 Click [here](https://outred.github.io/games.json) for LOTS of more games.
 
 
