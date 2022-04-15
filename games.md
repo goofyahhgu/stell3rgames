@@ -32,6 +32,8 @@ Reversi [Click here to play](https://outred.github.io/reversi.html) (100% workin
 
 Checkers [Click here to play](https://outred.github.io/checkers.html) (100% working)
 
+Moto 3XM (My personal favorite) [Click here to play](https://outred.github.io/moto3xm.html)
+
 Shell Shockers: [Click here to play](https://outred.github.io/shellshockers.html) (confusing)
 
 Narrow escape: [Click here to play](https://outred.github.io/narrowescape.html) 
