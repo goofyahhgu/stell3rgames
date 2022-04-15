@@ -28,6 +28,8 @@ Super Hot (Does not work on iOS) [Click here to play](https://outred.github.io/s
 
 Chess: [Click here to play](https://outred.github.io/chess.html)
 
+Reversi [Click here to play](https://outred.github.io/reversi.html)
+
 Shell Shockers: [Click here to play](https://outred.github.io/shellshockers.html)
 
 Click [here](https://outred.github.io/games.json) for LOTS of more games.
