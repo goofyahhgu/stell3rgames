@@ -14,25 +14,25 @@ Duck Life: [Click Here to Play](https://outred.github.io/Ducklife.html) (Under m
 
 Flappy Bird [Click Here to Play](https://outred.github.io/flappybird.html) (Under maintenance)
 
-2048: [Click Here to Play](https://outred.github.io/2048.html) (100% working)
+2048: [Click Here to Play](https://outred.github.io/2048.html) (under maintenance)
 
-Simple shooter game: [Click here to play](https://outred.github.io/Shooter.html)
+Simple shooter game: [Click here to play](https://outred.github.io/Shooter.html) (under maintenance)
 
-Dinosaur game: [Click here to play](https://outred.github.io/index.html)
+Dinosaur game: [Click here to play](https://outred.github.io/index.html) (under maintenance)
 
-Tetris [Click here to play](https://outred.github.io/tetris.html)
+Tetris [Click here to play](https://outred.github.io/tetris.html) (under maintenance)
 
-Tank Trouble (Does not work on iOS) [Click here to play](https://outred.github.io/tanktrouble.html)
+Tank Trouble (Does not work on iOS) [Click here to play](https://outred.github.io/tanktrouble.html) (100% working, doesn't work on iOS)
 
-Super Hot (Does not work on iOS) [Click here to play](https://outred.github.io/superhotmiami.html)
+Super Hot (Does not work on iOS) [Click here to play](https://outred.github.io/superhotmiami.html) (100% working, doesn't work on iOS)
 
-Chess: [Click here to play](https://outred.github.io/chess.html)
+Chess: [Click here to play](https://outred.github.io/chess.html) (100% working)
 
-Reversi [Click here to play](https://outred.github.io/reversi.html)
+Reversi [Click here to play](https://outred.github.io/reversi.html) (100% working)
 
-Shell Shockers: [Click here to play](https://outred.github.io/shellshockers.html)
+Shell Shockers: [Click here to play](https://outred.github.io/shellshockers.html) (confusing)
 
-Click [here](https://outred.github.io/games.json) for LOTS of more games.
+Click [here](https://outred.github.io/games.json) for LOTS of more games. (under maintenance)
 
 
 
