@@ -22,9 +22,11 @@ Dinosaur game: [Click here to play](https://outred.github.io/index.html)
 
 Tetris [Click here to play](https://outred.github.io/tetris.html)
 
-Tank Trouble [Click here to play](https://outred.github.io/tanktrouble.html)
+Tank Trouble (Does not work on iOS) [Click here to play](https://outred.github.io/tanktrouble.html)
 
-Super Hot [Click here to play](https://outred.github.io/superhotmiami.html)
+Super Hot (Does not work on iOS) [Click here to play](https://outred.github.io/superhotmiami.html)
+
+Chess: [Click here to play](https://outred.github.io/chess.html)
 
 Click [here](https://outred.github.io/games.json) for LOTS of more games.
 
