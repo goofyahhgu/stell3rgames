@@ -38,6 +38,8 @@ Narrow escape: [Click here to play](https://outred.github.io/narrowescape.html)
 
 Click [here](https://outred.github.io/games.json) for LOTS of more games. (under maintenance)
 
+IGNORE WHAT IS SEEN DOWN BELOW.
+
 
 
 Getting over it, MAKE SURE TO HAVE VOLUME ALL THE WAY DOWN: [Click Here to Play](https://sneakytime.com/rr/#.YKj6f2kpDqs)
