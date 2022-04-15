@@ -34,7 +34,7 @@ Checkers [Click here to play](https://outred.github.io/checkers.html) (100% work
 
 Shell Shockers: [Click here to play](https://outred.github.io/shellshockers.html) (confusing)
 
-Narrow escape: [Click here to play](https://outred.github.io/narrowescape.html)
+Narrow escape: [Click here to play](https://outred.github.io/narrowescape.html) (100% working)
 
 Click [here](https://outred.github.io/games.json) for LOTS of more games. (under maintenance)
 
