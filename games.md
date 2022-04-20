@@ -40,6 +40,8 @@ Shell Shockers: [Click here to play](https://outred.github.io/shellshockers.html
 
 Narrow escape: [Click here to play](https://outred.github.io/narrowescape.html) 
 
+World's Hardest Game: [Click here to play](https://outred.github.io/worlds-hardest-game.swf)
+
 Click [here](https://outred.github.io/games.json) for LOTS of more games. (under maintenance)
 
 IGNORE WHAT IS SEEN DOWN BELOW.
