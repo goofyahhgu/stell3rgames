@@ -44,6 +44,8 @@ World's Hardest Game: [Click here to play](https://outred.github.io/worlds-harde
 
 Click [here](https://outred.github.io/games.json) for LOTS of more games. (under maintenance)
 
+Gaem: [Play](https://outred.github.io/gaem.html) (this is just a test)
+
 IGNORE WHAT IS SEEN DOWN BELOW.
 
 
