@@ -15,7 +15,7 @@ Cookie Clicker: [Click Here to Play](https://outred.github.io/workingcookieclick
 
 Duck Life: [Click Here to Play](https://outred.github.io/Ducklife.html) (Under maintenance)
 
-Flappy Bird [Click Here to Play](https://outred.github.io/flappybird.html) (Under maintenance)
+Flappy Bird [Click Here to Play](https://outred.github.io/bestflappybird.html) (Under maintenance)
 
 2048: [Click Here to Play](https://outred.github.io/2048.html) (under maintenance)
 
