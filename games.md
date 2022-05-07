@@ -1,4 +1,31 @@
-## Welcome to OutRed Games!
+## Welcome to OutRed Games! Enter the password down below to get access to Discord. (Note: only premium members have access) Please scroll down to play the games.
+
+<SCRIPT>
+function passWord() {
+var testV = 1;
+var pass1 = prompt('Please Enter the Password to access discord',' ');
+while (testV < 3) {
+if (!pass1) 
+history.go(-1);
+if (pass1.toLowerCase() == "bobux") {
+alert('Access Granted. æ‹¾');
+window.open('discord.html');
+break;
+} 
+testV+=1;
+var pass1 = 
+prompt('Access Denied - Password Incorrect, Please Try Again.','Password');
+}
+if (pass1.toLowerCase()!="password" & testV ==3) 
+history.go(-1);
+return " ";
+} 
+</SCRIPT>
+<CENTER>
+<FORM>
+<input type="button" value="Click This to Enter the Password" onClick="passWord()">
+</FORM>
+</CENTER>
 
 If you would like to get premium, [click here.](https://outred.github.io/premium.md)
 
