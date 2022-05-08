@@ -32,6 +32,8 @@ If you would like to get premium, [click here.](https://outred.github.io/premium
 This website has several fun html games. They are all working and functional. 
 
 To access Discord, [Click this.](https://outred.github.io/discord.md) (Note: This is exclusive to premium members. To get premium, [click here](https://outred.github.io/premium.md) 
+ 
+Nitro Type: [Click here to play](https://outred.github.io/nitrotype.html)
 
 
 Simple Pong Game Level 1(2 player, one person uses arrow keys and other person use WASD): [Click Here to Play](https://outred.github.io/Pong.html) Level 2: [Click Here to Play](https://outred.github.io/Ponglvl2.html) Level 3 (Only 1.26% of people can beat this: [Click Here to Play](https://outred.github.io/Ponglvl3.html)(100% working)
