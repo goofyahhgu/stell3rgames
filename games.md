@@ -38,7 +38,7 @@ Nitro Type: [Click here to play](https://outred.github.io/nitrotype.html)
 
 Simple Pong Game Level 1(2 player, one person uses arrow keys and other person use WASD): [Click Here to Play](https://outred.github.io/Pong.html) Level 2: [Click Here to Play](https://outred.github.io/Ponglvl2.html) Level 3 (Only 1.26% of people can beat this: [Click Here to Play](https://outred.github.io/Ponglvl3.html)(100% working)
 
-Access [Youtube](https://outred.github.io/mrbeastyt.html) (Premium is required to access this, but since school is almost over, I am giving anyone access to this for a week. You're welcome.)
+Access [Youtube](https://outred.github.io/mrbeastyt.html) (Premium is required to access this, but since school is almost over, I am giving anyone access to this for a week. You're welcome.) (ONLY WORKS ON COMPUTER NOT IOS UGGGGGGG YES I KNOW I AM FIXING RIGHT NOW!!!!! I HATE THIS DUMB THING JUST AS MUCH AS YOU DO!!)
  
  Simple Snake Game: [Click Here to Play](https://outred.github.io/Snake.html) (100% working)
 
