@@ -7,7 +7,7 @@ var pass1 = prompt('Please Enter the Password',' ');
 while (testV < 3) {
 if (!pass1) 
 history.go(-1);
-if (pass1.toLowerCase() == "bigchungus4life") {
+if (pass1.toLowerCase() == "letmein") {
 alert('You Got it Right!');
 window.open('games.html');
 break;
