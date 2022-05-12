@@ -2,8 +2,6 @@
 
 <SCRIPT>
 function passWord() {
-  var password = document.getElementById("passwordBox");
-  var passwordText = password.value;
 var testV = 1;
 var pass1 = prompt('Please Enter the Password',' ');
 while (testV < 3) {
