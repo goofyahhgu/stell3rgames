@@ -27,7 +27,9 @@ return " ";
 </FORM>
 </CENTER>
 
-If you would like to get premium, [click here.](https://outred.github.io/premium.md)
+[Buy the new JV Fesko book](https://www.amazon.com/Word-Water-Spirit-Reformed-Perspective/dp/1601782829/ref=sr_1_1_sspa?crid=3I24ORUKBSDUO&keywords=Fesko&qid=1652537532&sprefix=fesko%2Caps%2C85&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFDMjdQUVlQRjdYNDEmZW5jcnlwdGVkSWQ9QTAyNjA5MThXVFFXVVZGOEczNTMmZW5jcnlwdGVkQWRJZD1BMDU1MTA5NjNBVlQ4NU84MThDVFEmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
+ 
+ If you would like to get premium, [click here.](https://outred.github.io/premium.md)
 
 This website has several fun html games. They are all working and functional. 
 
