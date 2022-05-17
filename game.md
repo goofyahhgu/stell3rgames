@@ -35,22 +35,39 @@ return " ";
 
   All iOS Working Games:
 
-[MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (100% working, game may crash if your device is bad)
-[IDLE BREAKOUT](https://outred.github.io/outred.github.io-idle-breakout/)
-[COOKIE CLICKER](https://outred.github.io/Cookie-Clicker-Source-Code/)
-[SIMPLE PONG GAME 2 PLAYER](https://outred.github.io/Pong.html) Level 1(2 player, one person uses arrow keys and other person use WASD): [Click Here to Play](https://outred.github.io/Pong.html) Level 2: [Click Here to Play](https://outred.github.io/Ponglvl2.html) Level 3 (Only 1.26% of people can beat this: [Click Here to Play](https://outred.github.io/Ponglvl3.html)(100% working)
-[TETRIS](https://outred.github.io/javascript-tetris/)
-[SIMPLE PONG GAME LEVEL 2](https://outred.github.io/Ponglvl2.html)
-[SIMPLE PONG GAME LEVEL 3](https://outred.github.io/Ponglvl3.html)
-[SNAKE GAME](https://outred.github.io/Snake.html) 
-[SNAKE GAME 2](https://outred.github.io/Bettersnake.html)
-[CHESS](https://outred.github.io/chess.html)
-[REVERSI](https://outred.github.io/reversi.html)
-[CHECKERS](https://outred.github.io/checkers.html)
+ [MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (100% working, game may crash if your device is bad)
+
+ [IDLE BREAKOUT](https://outred.github.io/outred.github.io-idle-breakout/)
+
+ [COOKIE CLICKER](https://outred.github.io/Cookie-Clicker-Source-Code/)
+ 
+ [TETRIS](https://outred.github.io/javascript-tetris/)
+ 
+ [SIMPLE PONG GAME 2 PLAYER](https://outred.github.io/Pong.html)
+
+ [SIMPLE PONG GAME LEVEL 2](https://outred.github.io/Ponglvl2.html)
+
+ [SIMPLE PONG GAME LEVEL 3](https://outred.github.io/Ponglvl3.html)
+
+ [SNAKE GAME](https://outred.github.io/Snake.html) 
+
+ [SNAKE GAME 2](https://outred.github.io/Bettersnake.html)
+
+ [CHESS](https://outred.github.io/chess.html)
+
+ [REVERSI](https://outred.github.io/reversi.html)
+
+ [CHECKERS](https://outred.github.io/checkers.html)
 
  All Games/YT That Work on Chromebook and Mac and PC:
-[MRBEAST YOUTUBE CHANNEL](https://outred.github.io/mrbeastyt.html)  
 
+ [MRBEAST YOUTUBE CHANNEL](https://outred.github.io/mrbeastyt.html)  
+ 
+ [SUPER HOT](https://outred.github.io/superhotmiami.html)
+ 
+ [TANK TROUBLE](https://outred.github.io/tanktrouble.html)
+ 
+ [NARROW ESCAPE](https://outred.github.io/narrowescape.html)
  
  
 
