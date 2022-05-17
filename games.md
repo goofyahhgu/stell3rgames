@@ -30,6 +30,8 @@ return " ";
  If you would like to get premium, [click here.](https://outred.github.io/premium.md)
 
 This website has several fun html games. They are all working (well not really rn) and functional. 
+
+MINECRAFT JAVA:[Click here to play](https://outred.github.io/Chill-Eaglers/) (100% working, game may crash if your device is bad)
  
 IDLE BREAKOUT:[CLick here to play](https://outred.github.io/outred.github.io-idle-breakout/) (100% Working! Woohoo!)
 
