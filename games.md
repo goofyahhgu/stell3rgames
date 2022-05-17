@@ -32,11 +32,6 @@ return " ";
 This website has several fun html games. They are all working (well not really rn) and functional. 
  
 IDLE BREAKOUT:[CLick here to play](https://outred.github.io/outred.github.io-idle-breakout/) (100% Working! Woohoo!)
- 
- Stupidity Test: [Click here to play](https://outred.github.io/stupidtest.html)
- 
- Nitro Type: [Click here to play](https://outred.github.io/nitrotype.html)
-
 
 Simple Pong Game Level 1(2 player, one person uses arrow keys and other person use WASD): [Click Here to Play](https://outred.github.io/Pong.html) Level 2: [Click Here to Play](https://outred.github.io/Ponglvl2.html) Level 3 (Only 1.26% of people can beat this: [Click Here to Play](https://outred.github.io/Ponglvl3.html)(100% working)
 
@@ -46,7 +41,7 @@ Simple Snake Game: [Click Here to Play](https://outred.github.io/Snake.html) (10
 
 Better Snake Game: [Click Here to Play](https://outred.github.io/Bettersnake.html) (100% working)
 
-Cookie Clicker: [Click Here to Play](https://outred.github.io/workingcookieclicker.html) (Currently under maintenance will be up as soon as possible, should be up in the next week)
+COOKIE CLICKER: [Click here to play](https://outred.github.io/Cookie-Clicker-Source-Code/) (100% Working! Woohoo!)
 
 Duck Life: [Click Here to Play](https://outred.github.io/Ducklife.html) (Under maintenance)
 
