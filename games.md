@@ -31,7 +31,9 @@ return " ";
 
 This website has several fun html games. They are all working (well not really rn) and functional. 
  
-Stupidity Test: [Click here to play](https://outred.github.io/stupidtest.html)
+IDLE BREAKOUT:[CLick here to play](https://outred.github.io/outred.github.io-idle-breakout/) (100% Working! Woohoo!)
+ 
+ Stupidity Test: [Click here to play](https://outred.github.io/stupidtest.html)
  
  Nitro Type: [Click here to play](https://outred.github.io/nitrotype.html)
 
