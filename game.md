@@ -35,7 +35,7 @@ return " ";
 
   All iOS Working Games:
 
- [MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (100% working, game may crash if your device is bad) (NEW)
+ [MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (Usually doesn't work on iPad, always works on Computer.) (NEW)
 
  [IDLE BREAKOUT](https://outred.github.io/outred.github.io-idle-breakout/) (NEW)
 
