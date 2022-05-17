@@ -53,7 +53,7 @@ Simple shooter game: [Click here to play](https://outred.github.io/Shooter.html)
 
 Dinosaur game: [Click here to play](https://outred.github.io/index.html) (under maintenance)
 
-TETRIS: [Click here to play](https://outred.github.io/javascript-tetris/)
+TETRIS: [Click here to play](https://outred.github.io/javascript-tetris/) (100% Working! Woohoo!)
 
 Tank Trouble (Does not work on iOS) [Click here to play](https://outred.github.io/tanktrouble.html) (Does not work on iPads)
 
