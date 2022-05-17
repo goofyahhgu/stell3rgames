@@ -35,13 +35,13 @@ return " ";
 
   All iOS Working Games:
 
- [MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (100% working, game may crash if your device is bad)
+ [MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (100% working, game may crash if your device is bad) (NEW)
 
- [IDLE BREAKOUT](https://outred.github.io/outred.github.io-idle-breakout/)
+ [IDLE BREAKOUT](https://outred.github.io/outred.github.io-idle-breakout/) (NEW)
 
- [COOKIE CLICKER](https://outred.github.io/Cookie-Clicker-Source-Code/)
+ [COOKIE CLICKER](https://outred.github.io/Cookie-Clicker-Source-Code/) (NEW)
  
- [TETRIS](https://outred.github.io/javascript-tetris/)
+ [TETRIS](https://outred.github.io/javascript-tetris/) (NEW)
  
  [SIMPLE PONG GAME 2 PLAYER](https://outred.github.io/Pong.html)
 
@@ -69,44 +69,3 @@ return " ";
  
  [NARROW ESCAPE](https://outred.github.io/narrowescape.html)
  
- 
-
-Better Snake Game: [Click Here to Play](https://outred.github.io/Bettersnake.html) (100% working)
-
-COOKIE CLICKER: [Click here to play](https://outred.github.io/Cookie-Clicker-Source-Code/) (100% Working! Woohoo!)
-
-Duck Life: [Click Here to Play](https://outred.github.io/Ducklife.html) (Under maintenance)
-
-Flappy Bird [Click Here to Play](https://outred.github.io/updatedflappybird.html) (Under maintenance)
-
-2048: [Click Here to Play](https://outred.github.io/2048.html) (under maintenance)
-
-Simple shooter game: [Click here to play](https://outred.github.io/Shooter.html) (under maintenance)
-
-Dinosaur game: [Click here to play](https://outred.github.io/index.html) (under maintenance)
-
-TETRIS: [Click here to play](https://outred.github.io/javascript-tetris/) (100% Working! Woohoo!)
-
-Tank Trouble (Does not work on iOS) [Click here to play](https://outred.github.io/tanktrouble.html) (Does not work on iPads)
-
-Super Hot (Does not work on iOS) [Click here to play](https://outred.github.io/superhotmiami.html) (Does not work on iPads)
-
-Chess: [Click here to play](https://outred.github.io/chess.html) (100% working)
-
-Reversi [Click here to play](https://outred.github.io/reversi.html) (100% working)
-
-Checkers [Click here to play](https://outred.github.io/checkers.html) (100% working)
-
-Moto 3XM (My personal favorite) [Click here to play](https://outred.github.io/moto3xm.html)
-
-Shell Shockers: [Click here to play](https://outred.github.io/shellshockers.html) (confusing)
-
-Narrow escape: [Click here to play](https://outred.github.io/narrowescape.html) 
-
-World's Hardest Game: [Click here to play](https://outred.github.io/worlds-hardest-game.swf)
-
-Click [here](https://outred.github.io/games.json) for LOTS of more games. (under maintenance)
-
-Gaem: [Play](https://outred.github.io/gaem.html) (this is just a test)
-
-Getting over it, MAKE SURE TO HAVE VOLUME ALL THE WAY DOWN: [Click Here to Play](https://sneakytime.com/rr/#.YKj6f2kpDqs)
