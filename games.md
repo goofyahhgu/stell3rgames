@@ -27,6 +27,9 @@ return " ";
 </FORM>
 </CENTER>
  
+ If this site gets blocked, here are other links for this site. They all should work.
+ [Backup 1](https://ccsgames.github.io/outred.github.io/)
+ 
  If you would like to get premium, [click here.](https://outred.github.io/premium.md)
 
 This website has several fun html games. They are all working (well not really rn) and functional. 
