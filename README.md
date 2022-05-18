@@ -1,2 +1,4 @@
 # 
-Just a cool site with some games. It is updated with new games each week and the theme of this site changes each month. The link is: Wait a second, someone is probably looking over your shoulder trying to see this link. You know what it is anyways xD
+Just a website with some games. My organization is always blocking games I like to play, so, I decided to make my own site with all the games of my favorites. Maybe some of them are your favorites too. If you would like to contribute to the site, you can paste iframe codes for games in Issues. Thanks!
+
+
