@@ -1,5 +1,5 @@
 ## Welcome to OutRed Games! Enter the password down below to get access to Discord. (Note: only premium members have access) Please scroll down to play the games.
-##Discord:
+Discord (down for privacy issues)
 <SCRIPT>
 function passWord() {
 var testV = 1;
@@ -9,7 +9,7 @@ if (!pass1)
 history.go(-1);
 if (pass1.toLowerCase() == "bobux") {
 alert('Access Granted. æ‹¾');
-window.open('discord.html');
+window.open('dicord.html');
 break;
 } 
 testV+=1;
@@ -39,7 +39,8 @@ return " ";
   All iOS Working Games:
 
  [MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (Usually doesn't work on iPad, always works on Computer.) (NEW)
-
+ [GETTING OVER IT](https://outred.github.io/rickroll.html) (NEW)
+ 
  [IDLE BREAKOUT](https://outred.github.io/outred.github.io-idle-breakout/) (NEW)
 
  [COOKIE CLICKER](https://outred.github.io/Cookie-Clicker-Source-Code/) (NEW)
