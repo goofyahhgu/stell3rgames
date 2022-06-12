@@ -36,6 +36,8 @@ return " ";
  
  If you would like to get premium, [click here.](https://outred.github.io/premium.md)
 
+ [GOOGLE](https://outred.github.io/google.html)
+ 
   All iOS Working Games:
 
  [MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (Usually doesn't work on iPad, always works on Computer.) (NEW)
