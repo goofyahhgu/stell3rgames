@@ -1,4 +1,4 @@
-## Welcome to OutRed Games! Enter the password down below to get access to Discord. (Note: only premium members have access) Please scroll down to play the games.
+## Welcome to Redd Games! Enter the password down below to get access to Discord. (Note: only premium members have access) Please scroll down to play the games.
 Discord (down for privacy issues)
 <SCRIPT>
 function passWord() {
