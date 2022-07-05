@@ -1,4 +1,4 @@
-## Welcome to OutRed Games! Enter the password down below. When you put the correct password, it will take you to all the games. The password changes once a week.
+## Welcome to Redd Games! Enter the password down below. When you put the correct password, it will take you to all the games. The password changes once a week.
 
 <SCRIPT>
 function passWord() {
