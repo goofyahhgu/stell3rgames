@@ -28,8 +28,11 @@ return " ";
 </CENTER>
  
 
+ If you would like to make a request to add a game, [click here](outred.github.io/addagame)
  
  "It's not much, but it's honest work."
+ 
+ Note: Some games may not work because of your organizations WiFi settings or they may have a custom DNS set up.
  
  If this site gets blocked, here are other links for this site. They all should work.
  [Backup 1](https://ccsgames.github.io/outred.github.io/)
