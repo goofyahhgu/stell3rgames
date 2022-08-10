@@ -28,7 +28,7 @@ return " ";
 </CENTER>
  
 
- If you would like to make a request to add a game, [click here](outred.github.io/addagame)
+ If you would like to make a request to add a game, [click here](outred.github.io/addagame.html)
  
  "It's not much, but it's honest work."
  
