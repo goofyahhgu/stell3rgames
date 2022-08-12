@@ -1,4 +1,7 @@
 ## Welcome to OutRed Games! Enter the password down below. When you put the correct password, it will take you to all the games. The password changes once a week.
+<html>
+  <title>Redd Games</title>
+  </html>
 
 <SCRIPT>
 function passWord() {
