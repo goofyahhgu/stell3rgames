@@ -27,12 +27,12 @@ body {
 
 .topnav a:hover {
   background-color: #ddd;
-  color: black;
+  color: white;
 }
 
 .topnav a.active {
   background-color: #2196F3;
-  color: white;
+  color: black;
 }
 
 .topnav .search-container {
