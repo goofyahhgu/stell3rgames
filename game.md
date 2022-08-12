@@ -43,17 +43,19 @@ return " ";
  
   All iOS Working Games:
 
- [MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (Usually doesn't work on iPad, always works on Computer.) (NEW)
+ [MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (Usually doesn't work on iPad, always works on Computer.)
 
- [GETTING OVER IT](https://outred.github.io/rickroll.html) (NEW)
+ [GETTING OVER IT](https://outred.github.io/rickroll.html)
 
- [IDLE BREAKOUT](https://outred.github.io/outred.github.io-idle-breakout/) (NEW)
+ [IDLE BREAKOUT](https://outred.github.io/outred.github.io-idle-breakout/)
 
- [COOKIE CLICKER](https://outred.github.io/Cookie-Clicker-Source-Code/) (NEW)
+ [COOKIE CLICKER](https://outred.github.io/Cookie-Clicker-Source-Code/)
  
- [TETRIS](https://outred.github.io/javascript-tetris/) (NEW)
+ [PARTICLE CLICKER](https://outred.github.io/particle-clicker/) (NEW)
  
- [RETRO TETRIS (recommended)](https://outred.github.io/react-tetris/)
+ [TETRIS](https://outred.github.io/javascript-tetris/)
+ 
+ [RETRO TETRIS (recommended)](https://outred.github.io/react-tetris/) (NEW)
  
  [SIMPLE PONG GAME 2 PLAYER](https://outred.github.io/Pong.html)
 
