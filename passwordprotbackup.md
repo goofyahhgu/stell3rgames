@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+## Welcome. Please apply to access all games.
 <html>
 <head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -84,7 +84,7 @@ body {
 <div class="topnav">
   <a class="active" href="#home">Home</a>
   <a href="#about">About</a>
-  <a href="game.html">Contact</a>
+  <a href="game.html">Apply</a>
   <div class="search-container">
     <form action="/action_page.php">
       <input type="text" placeholder="Search.." name="search">
