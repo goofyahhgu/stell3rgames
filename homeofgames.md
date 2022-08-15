@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <style>
 * {
@@ -66,7 +66,7 @@ body {
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
-    <img src="/w3images/wedding.jpg" style="width:100%">
+    <img src="Screenshot 2022-07-25 221157.png" style="width:100%">
     <img src="/w3images/rocks.jpg" style="width:100%">
     <img src="/w3images/falls2.jpg" style="width:100%">
     <img src="/w3images/paris.jpg" style="width:100%">
