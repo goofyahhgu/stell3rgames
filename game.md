@@ -57,7 +57,9 @@ return " ";
  
  [RETRO TETRIS (recommended)](https://outred.github.io/react-tetris/) (NEW)
  
- [FLAPPY BIRD](https://outred.github.io/flappy/)
+ [FLAPPY BIRD](https://outred.github.io/flappy/) (NEW)
+ 
+ [SLOPE](https://outred.github.io/Slope-Game/) (NEW)
  
  [SIMPLE PONG GAME 2 PLAYER](https://outred.github.io/Pong.html)
 
