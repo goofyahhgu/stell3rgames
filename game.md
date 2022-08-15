@@ -38,10 +38,8 @@ return " ";
  [Backup 1](https://ccsgames.github.io/outred.github.io/)
  
  If you would like to get premium, [click here.](https://outred.github.io/premium.md)
-
- [GOOGLE](https://outred.github.io/google.html)
  
-  All iOS Working Games:
+  All iOS Working Games: (THESE DO NOT BELONG TO ME)
 
  [MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (Usually doesn't work on iPad, always works on Computer.)
 
@@ -77,7 +75,7 @@ return " ";
 
  [CHECKERS](https://outred.github.io/checkers.html)
 
- All Games/YT That Work on Chromebook and Mac and PC:
+ All Games/YT That Work on Chromebook and Mac and PC: (THESE DO NOT BELONG TO ME)
 
  [MRBEAST YOUTUBE CHANNEL](https://outred.github.io/mrbeastyt.html)  
  
