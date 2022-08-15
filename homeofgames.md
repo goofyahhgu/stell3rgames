@@ -1,3 +1,16 @@
+<!DOCTYPEhtml>
+
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+</style>
+</html>
+
+
+
 
 <html>
 <style>
