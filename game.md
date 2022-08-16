@@ -53,6 +53,8 @@ return " ";
  
  [TETRIS](https://outred.github.io/javascript-tetris/)
  
+ [RETRO BOWL](https://outred.github.io/retro--bowl/) (NEW)
+
  [RETRO TETRIS (recommended)](https://outred.github.io/react-tetris/) (NEW)
  
  [FLAPPY BIRD](https://outred.github.io/flappy/) (NEW)
