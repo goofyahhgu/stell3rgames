@@ -4,7 +4,9 @@
   </html>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOutRed%2Foutred.github.io&count_bg=%236BA83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Page+Visits&edge_flat=false"/></a>
-
+ <link rel="icon" 
+     type="png" 
+     href="262722F8-8B84-4E32-814C-9102B25C0FA5.png">
 <SCRIPT>
 function passWord() {
 var testV = 1;
