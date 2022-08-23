@@ -59,7 +59,7 @@ return " ";
  
  [FLAPPY BIRD](https://outred.github.io/flappy/) (NEW)
  
- [SLOPE](https://outred.github.io/Slope-Game/) (NEW)
+ [SLOPE](https://outred.github.io/slope.html) (NEW)
  
  [SIMPLE PONG GAME 2 PLAYER](https://outred.github.io/Pong.html)
 
