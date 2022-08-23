@@ -45,7 +45,7 @@ return " ";
 
  [GETTING OVER IT](https://outred.github.io/gettingoverit.html) (NEW)
  
- [2048](https://outred.github.io/2048.html)
+ [2048](https://outred.github.io/2048.html) (NEW)
 
  [IDLE BREAKOUT](https://outred.github.io/outred.github.io-idle-breakout/)
 
