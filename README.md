@@ -3,4 +3,4 @@ Just a website with some games. My organization is always blocking games I like 
 
 # Most popular game on Outred Games:
 <img src="https://9to5fortnite.com/wp-content/uploads/2021/09/cookie-clicker-steam-background-780x470.jpg" alt="Image Description">
-Cookie Clicker
+<p style="color:red;">COOKIE CLICKER</p>
