@@ -43,7 +43,7 @@ return " ";
 
  [MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (Usually doesn't work on iPad, always works on Computer.)
 
- [GETTING OVER IT](https://outred.github.io/rickroll.html)
+ [GETTING OVER IT](https://outred.github.io/gettingoverit.html)
 
  [IDLE BREAKOUT](https://outred.github.io/outred.github.io-idle-breakout/)
 
