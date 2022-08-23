@@ -43,7 +43,7 @@ return " ";
 
  [MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (Usually doesn't work on iPad, always works on Computer.)
 
- [GETTING OVER IT](https://outred.github.io/gettingoverit.html) (NEW)
+ [GETTING OVER IT](https://outred.github.io/gettingoverit.html) (NEW) <p style="color:red;">I am red</p>
  
  [2048](https://outred.github.io/2048.html) (NEW)
 
