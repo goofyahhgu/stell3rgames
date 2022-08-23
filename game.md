@@ -44,6 +44,8 @@ return " ";
  [MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (Usually doesn't work on iPad, always works on Computer.)
 
  [GETTING OVER IT](https://outred.github.io/gettingoverit.html) (NEW)
+ 
+ [2048](https://outred.github.io/2048.html)
 
  [IDLE BREAKOUT](https://outred.github.io/outred.github.io-idle-breakout/)
 
