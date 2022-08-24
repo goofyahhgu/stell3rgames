@@ -43,7 +43,7 @@ return " ";
 
  [MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (Usually doesn't work on iPad, always works on Computer.)
 
- [KRUNKER.IO](https://outred.github.io/krunkerio.html)
+ [KRUNKER.IO](https://outred.github.io/krunkerio.html) (NEW)
  
  [NUGGET ROYALE](https://outred.github.io/nuggetroyale.html) (NEW) 
  
