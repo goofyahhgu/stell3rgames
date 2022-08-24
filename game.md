@@ -43,6 +43,8 @@ return " ";
 
  [MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (Usually doesn't work on iPad, always works on Computer.)
 
+ [NUGGET ROYALE](https://outred.github.io/nuggetroyale.html) (NEW) 
+ 
  [YOHOHO.IO](https://outred.github.io/yohohoio.html) (NEW)
  
  [GETTING OVER IT](https://outred.github.io/gettingoverit.html) (NEW)
