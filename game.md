@@ -27,7 +27,7 @@ return " ";
 </FORM>
 </CENTER>
  
- <link rel="icon" type="image/x-icon" href="https://outred.github.io/favicon.ico" /> <title>OutRed Games</title>
+ <link rel="icon" type="image/x-icon" href="https://github.com/OutRed/outred.github.io/blob/main/favicon.ico" /> <title>OutRed Games</title>
  
  If you would like to make a request to add a game, [click here](outred.github.io/addagame.html)
  
