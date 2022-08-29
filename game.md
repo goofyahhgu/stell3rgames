@@ -44,31 +44,33 @@ return " ";
 
  [MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (Usually doesn't work on iPad, always works on Computer.)
 
- [KRUNKER.IO](https://outred.github.io/krunkerio.html) (NEW)
+ [SURVIV.IO](https://outred.github.io/survivio.html) (NEW)
  
- [NUGGET ROYALE](https://outred.github.io/nuggetroyale.html) (NEW) 
+ [KRUNKER.IO](https://outred.github.io/krunkerio.html)
  
- [YOHOHO.IO](https://outred.github.io/yohohoio.html) (NEW)
+ [NUGGET ROYALE](https://outred.github.io/nuggetroyale.html)
  
- [GETTING OVER IT](https://outred.github.io/gettingoverit.html) (NEW)
+ [YOHOHO.IO](https://outred.github.io/yohohoio.html)
  
- [2048](https://outred.github.io/2048.html) (NEW)
+ [GETTING OVER IT](https://outred.github.io/gettingoverit.html)
+ 
+ [2048](https://outred.github.io/2048.html)
 
  [IDLE BREAKOUT](https://outred.github.io/outred.github.io-idle-breakout/)
 
  [COOKIE CLICKER](https://outred.github.io/Cookie-Clicker-Source-Code/)
  
- [PARTICLE CLICKER](https://outred.github.io/particle-clicker/) (NEW)
+ [PARTICLE CLICKER](https://outred.github.io/particle-clicker/)
  
  [TETRIS](https://outred.github.io/javascript-tetris/)
  
- [RETRO BOWL](https://outred.github.io/retro--bowl/) (NEW)
+ [RETRO BOWL](https://outred.github.io/retro--bowl/)
 
- [RETRO TETRIS (recommended)](https://outred.github.io/react-tetris/) (NEW)
+ [RETRO TETRIS (recommended)](https://outred.github.io/react-tetris/)
  
- [FLAPPY BIRD](https://outred.github.io/flappy/) (NEW)
+ [FLAPPY BIRD](https://outred.github.io/flappy/)
  
- [SLOPE](https://outred.github.io/slope.html) (NEW)
+ [SLOPE](https://outred.github.io/slope.html)
  
  [SIMPLE PONG GAME 2 PLAYER](https://outred.github.io/Pong.html)
 
