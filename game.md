@@ -46,6 +46,8 @@ return " ";
 
  [SURVIV.IO](https://outred.github.io/survivio.html) (NEW)
  
+ [SUPER MARIO BROS](https://outred.github.io/SuperMarioBrosS-v0.2.0/) (NEW)
+ 
  [KRUNKER.IO](https://outred.github.io/krunkerio.html)
  
  [NUGGET ROYALE](https://outred.github.io/nuggetroyale.html)
