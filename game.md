@@ -54,6 +54,8 @@ return " ";
  
  [NUGGET ROYALE](https://outred.github.io/nuggetroyale.html)
  
+ [ARENA](https://outred.github.io/arena-scratch/)
+ 
  [YOHOHO.IO](https://outred.github.io/yohohoio.html)
  
  [GETTING OVER IT](https://outred.github.io/gettingoverit.html)
