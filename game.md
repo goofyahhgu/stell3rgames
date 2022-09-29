@@ -56,6 +56,8 @@ return " ";
  
  [ARENA](https://outred.github.io/arena-scratch/) (NEW)
  
+ [FIVE NIGHTS AT FREDDY'S](https://outred.github.io/fivenightsatfreddys.html)
+ 
  [YOHOHO.IO](https://outred.github.io/yohohoio.html)
  
  [GETTING OVER IT](https://outred.github.io/gettingoverit.html)
