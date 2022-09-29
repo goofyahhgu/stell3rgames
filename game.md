@@ -29,7 +29,7 @@ return " ";
  
  <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/OutRed/outred.github.io/main/favicon.ico" /> <title>OutRed Games</title>
  
- If you would like to make a request to add a game, [click here](outred.github.io/addagame.html)
+ If you would like to make a request to add a game, [click here](https://github.com/OutRed/outred.github.io/discussions/15)
  
  "It's not much, but it's honest work."
  
