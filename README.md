@@ -3,7 +3,7 @@ Just a website with some games. My organization is always blocking games I like 
 
 ## [Play Here!](https://outred.github.io/)
 
-# Most popular game on Outred Games:
+# Most popular game on Outred Games: [Cookie Clicker](https://outred.github.io/cookie-clicker-redirect.html)
 <img src="https://9to5fortnite.com/wp-content/uploads/2021/09/cookie-clicker-steam-background-780x470.jpg" alt="Image Description">
 <html>
 <body>
