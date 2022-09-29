@@ -54,7 +54,7 @@ return " ";
  
  [NUGGET ROYALE](https://outred.github.io/nuggetroyale.html)
  
- [ARENA](https://outred.github.io/arena-scratch/)
+ [ARENA](https://outred.github.io/arena-scratch/) (NEW)
  
  [YOHOHO.IO](https://outred.github.io/yohohoio.html)
  
@@ -64,7 +64,7 @@ return " ";
 
  [IDLE BREAKOUT](https://outred.github.io/outred.github.io-idle-breakout/)
 
- [COOKIE CLICKER](https://cyclokid.github.io/cookieclicker/) (REDIRECTS TO CYCLOKID'S SITE)
+ [COOKIE CLICKER](https://cyclokid.github.io/cookieclicker/) (REDIRECTS TO CYCLOKID'S SITE) (NEW)
  
  [PARTICLE CLICKER](https://outred.github.io/particle-clicker/)
  
