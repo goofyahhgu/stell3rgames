@@ -1,55 +1,13 @@
 ## Welcome to OutRed Games! Enter the password down below. When you put the correct password, it will take you to all the games. The password changes once a week.
 <html>
-  <title>Redd Games</title>
+  <title>OutRed Games</title>
   </html>
  <link rel="icon" type="image/x-icon" href="https://github.com/OutRed/outred.github.io/blob/main/favicon.ico" /> <title>OutRed Games</title>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOutRed%2Foutred.github.io&count_bg=%236BA83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Page+Visits&edge_flat=false"/></a>
+
+We have decided to remove the password. You can now access the games [here](https://outred.github.io/game)
  
-<head> 
-<script type="text/javascript">
-    (function(c,l,a,r,i,t,y){
-        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    })(window, document, "clarity", "script", "dde60yshnc");
-</script>       
-</head>       
-    
-<SCRIPT>
-function passWord() {
-var testV = 1;
-var pass1 = prompt('Please Enter the Password',' ');
-while (testV < 3) {
-if (!pass1) 
-history.go(-1);
-if (pass1.toLowerCase() == "letmein") {
-alert('You Got it Right!');
-window.open('game.html');
-break;
-} 
-testV+=1;
-var pass1 = 
-prompt('Access Denied - Password Incorrect, Please Try Again.','Password');
-}
-if (pass1.toLowerCase()!="password" & testV ==3) 
-history.go(-1);
-return " ";
-} 
-</SCRIPT>
-<CENTER>
-<FORM>
-<input type="button" value="Click This to Enter Password" onClick="passWord()">
-</FORM>
-</CENTER>
-  
-  <script src="https://www.google.com/recaptcha/enterprise.js?render=6Le82r4hAAAAAJruOCxdQXzaeqYXtA00PkBGJTQw"></script>
-<script>
-grecaptcha.enterprise.ready(function() {
-    grecaptcha.enterprise.execute('6Le82r4hAAAAAJruOCxdQXzaeqYXtA00PkBGJTQw', {action: 'login'}).then(function(token) {
-       ...
-    });
-});
-</script>
+
 
   
   
