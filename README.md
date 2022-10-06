@@ -17,3 +17,4 @@ If you would like to add a game, you can do so [by clicking here](https://github
 - [Cyclokid](https://www.github.com/CycloKid)
 
 ## [We are over 700 workflow runs!](https://github.com/OutRed/outred.github.io/actions)
+(this was my first repo so I had to learn a lot)
