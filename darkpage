@@ -1,5 +1,42 @@
 <html>
+<head>
 <title>The Dark Page</title>
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "dde60yshnc");
+</script>       
+</head>       
+    
+<SCRIPT>
+function passWord() {
+var testV = 1;
+var pass1 = prompt('Please Enter the Password',' ');
+while (testV < 3) {
+if (!pass1) 
+history.go(-1);
+if (pass1.toLowerCase() == "girls shouldn't know this") {
+alert('You Got it Right!');
+window.open('game.html');
+break;
+} 
+testV+=1;
+var pass1 = 
+prompt('Access Denied - Password Incorrect, Please Try Again.','Password');
+}
+if (pass1.toLowerCase()!="password" & testV ==3) 
+history.go(-1);
+return " ";
+} 
+</SCRIPT>
+<CENTER>
+<FORM>
+<input type="button" value="Click This to Enter Password" onClick="passWord()">
+</FORM>
+</CENTER>
 <body>
 <center><h1>Welcome to the Dark Page</h1>
 <p>This is the place where all the magic happens. Also, for those exclusive people who have access here, there are a lot more games on here, and also an unblocker.</p>
+</html>
