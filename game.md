@@ -2,16 +2,9 @@
 
   <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/OutRed/outred.github.io/main/favicon.ico" /> <title>OutRed Games</title>
  
- If you would like to make a request to add a game, [click here](https://github.com/OutRed/outred.github.io/discussions/15)
+ If you would like to make a request to add a game, [click here](https://github.com/OutRed/outred.github.io/discussions/)
  
- "It's not much, but it's honest work."
- 
- Note: Some games may not work because of your organizations WiFi settings or they may have a custom DNS set up.
- 
- If this site gets blocked, here are other links for this site. They all should work.
- [Backup 1](https://ccsgames.github.io/outred.github.io/)
- 
- If you would like to get premium, [click here.](https://outred.github.io/premium.md)
+ NEW WEBPAGE BEING DESIGNED!!! IT WILL LOOK 100% BETTER THAN THIS!!!
  
  [HOLY UNBLOCKER](https://outred.github.io/holyunblocker.html) (NEW) 
  
