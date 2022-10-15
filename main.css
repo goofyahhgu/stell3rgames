@@ -1,3 +1,5 @@
+.lw { font-size: 60px; }
+
 .lw {
     font-size: 60px;
 }
@@ -16,9 +18,9 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333;
-  -webkit-border-radius: 33px;
--moz-border-radius: 33px;
-border-radius: 33px;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  border-radius: 40px;
 }
 
 
@@ -44,7 +46,7 @@ li a:hover {
 }
 
 img {
-  padding: 90px;
+  padding: px;
 }
 
 .container {
@@ -70,11 +72,35 @@ img {
   font-size: 16px;
   cursor: pointer;
   -webkit-border-radius: 38px;
--moz-border-radius: 38px;
-border-radius: 38px;
+  -moz-border-radius: 38px;
+  border-radius: 38px;
 }
 
 .btn:hover {
   background-color: indigo;
   transition: 0.5s;
 }
+
+h3 {
+  color: white;
+  font-family: arial;
+   position: absolute;
+  top: 37%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white; 
+  ;
+}
+
+p {
+  color: white;
+  font-family: arial;
+}
+
+
+
+
+
+
+
+
