@@ -97,6 +97,53 @@ p {
   font-family: arial;
 }
 
+.callout {
+  position: fixed;
+  bottom: 35px;
+  right: 20px;
+  margin-left: 20px;
+  max-width: 300px;  
+   -webkit-border-radius: 38px;
+  -moz-border-radius: 38px;
+  border-radius: 38px;
+}
+
+.callout-header {
+  padding: 25px 15px;
+  background: #555;
+  font-size: 30px;
+  color: white;
+  font-family: arial;
+  border-top-right-radius: 37px;
+  border-top-left-radius: 37px;
+}
+
+.callout-container {
+  padding: 15px;
+  background-color: grey;
+  font-family: arial; 
+  border-bottom-left-radius: 37px; 
+  border-bottom-right-radius: 37px;
+}
+
+.closebtn {
+  position: absolute;
+  top: 5px;
+  right: 15px;
+  color: white;
+  font-size: 30px;
+  cursor: pointer;
+  font-family: arial;
+}
+
+.closebtn:hover {
+  color: lightgrey;
+  transition: 0.3s;
+}
+
+a {
+  color: black;
+}
 
 
 
