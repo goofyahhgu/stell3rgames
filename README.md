@@ -13,8 +13,8 @@ If you have any feedback, please reach out to us [here](https://github.com/OutRe
 If you would like to add a game, you can do so [by clicking here](https://github.com/OutRed/outred.github.io/discussions/15). We want to make this website full of your favorite games and now you can do that!
 ## Authors
 
-- [Outred](https://www.github.com/OutRed) (Over 700 commits done)
-- [Cyclokid](https://www.github.com/CycloKid)
+- [Outred](https://www.github.com/OutRed) (Founder)
+- [Cyclokid](https://www.github.com/CycloKid) (Contributor)
 
 ## [We are over 790 workflow runs!](https://github.com/OutRed/outred.github.io/actions)
 (this was my first repo so I had to learn a lot)
