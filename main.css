@@ -16,6 +16,9 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333;
+  -webkit-border-radius: 38px;
+-moz-border-radius: 38px;
+border-radius: 38px;
 }
 
 
@@ -37,9 +40,8 @@ li a:hover {
 }
 
 img {
-    padding: 90px;
+  padding: 90px;
 }
-
 
 .container {
   position: relative;
@@ -63,15 +65,11 @@ img {
   padding: 12px 16px;
   font-size: 16px;
   cursor: pointer;
+  -webkit-border-radius: 38px;
+-moz-border-radius: 38px;
+border-radius: 38px;
 }
 
 .btn:hover {
   background-color: indigo;
 }
-
-
-
-
-
-
-
