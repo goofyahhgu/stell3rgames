@@ -2,7 +2,9 @@
 
   <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/OutRed/outred.github.io/main/favicon.ico" /> <title>OutRed Games</title>
  
- If you would like to make a request to add a game, [click here](https://github.com/OutRed/outred.github.io/discussions/)
+ If you would like to make a request to add a game, [click here](https://github.com/OutRed/outred.github.io/discussions/15)
+ 
+ [Join our Discord server!](https://discord.gg/s8Z4tsExcd) (Has lots of perks!)
  
  NEW WEBPAGE BEING DESIGNED!!! IT WILL LOOK 100% BETTER THAN THIS!!!
  
