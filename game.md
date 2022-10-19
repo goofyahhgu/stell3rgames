@@ -10,6 +10,8 @@
  
  All iOS Working Games: (THESE DO NOT BELONG TO ME)
 
+[THE IMPOSSIBLE QUIZ](https://outred.github.io/impossiblequiz) (NEW)
+
 [WORLDS HARDEST GAME](https://outred.github.io/worldshardestgame.html)(NEW)
 
 [MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (Usually doesn't work on iPad, always works on Computer.)
@@ -24,7 +26,7 @@
  
  [NUGGET ROYALE](https://outred.github.io/nuggetroyale.html)
  
- [ARENA](https://outred.github.io/arena-scratch/) (NEW)
+ [ARENA](https://outred.github.io/arena-scratch/)
  
  [FIVE NIGHTS AT FREDDY'S](https://outred.github.io/fivenightsatfreddys.html)
  
@@ -36,7 +38,7 @@
 
  [IDLE BREAKOUT](https://outred.github.io/outred.github.io-idle-breakout/)
 
- [COOKIE CLICKER](https://cyclokid.github.io/cookieclicker/) (REDIRECTS TO CYCLOKID'S SITE) (NEW)
+ [COOKIE CLICKER](https://cyclokid.github.io/cookieclicker/) (REDIRECTS TO CYCLOKID'S SITE)
  
  [PARTICLE CLICKER](https://outred.github.io/particle-clicker/)
  
