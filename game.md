@@ -1,4 +1,4 @@
-## Welcome to Redd Games! Enter the password down below to get access to Discord. (Note: only premium members have access) Please scroll down to play the games.
+## Welcome to OutRed Games. Here, I try to add as many games as possible. (I am currently making a new web page.)
 
   <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/OutRed/outred.github.io/main/favicon.ico" /> <title>OutRed Games</title>
  
