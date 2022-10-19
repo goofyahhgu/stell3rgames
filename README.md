@@ -3,7 +3,7 @@
 This is a website with lots of games on it that you can play. This is for those of you who are
 maybe bored at school or at work, and you just want to take a break and relax your mind playing some of the best games out there.
 ## [Play Here!](https://outred.github.io/game)
-
+## [Join Our Discord Server!](https://discord.gg/s8Z4tsExcd)
 ## Feedback
 
 If you have any feedback, please reach out to us [here](https://github.com/OutRed/outred.github.io/discussions/17). We are open to anything! Our goal is to make this the best game website there is EVER.
