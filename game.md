@@ -10,7 +10,7 @@
  
  All iOS Working Games: (THESE DO NOT BELONG TO ME)
 
-[WORLDS HARDEST GAME](https://outred.github.io/worldshardestgame)(NEW)
+[WORLDS HARDEST GAME](https://outred.github.io/worldshardestgame.html)(NEW)
 
 [MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (Usually doesn't work on iPad, always works on Computer.)
 
