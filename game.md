@@ -10,7 +10,9 @@
  
  All iOS Working Games: (THESE DO NOT BELONG TO ME)
 
- [MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (Usually doesn't work on iPad, always works on Computer.)
+[WORLDS HARDEST GAME](https://outred.github.io/worldshardestgame)(NEW)
+
+[MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (Usually doesn't work on iPad, always works on Computer.)
 
  [MOOMOO.IO](https://outred.github.io/moomooio.html) 
  
