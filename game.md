@@ -40,7 +40,7 @@
 
  [IDLE BREAKOUT](https://outred.github.io/outred.github.io-idle-breakout/)
 
- [COOKIE CLICKER](https://cyclokid.github.io/cookieclicker/) (REDIRECTS TO CYCLOKID'S SITE)
+ [COOKIE CLICKER](https://outred.github.io/cookieclicker/)
  
  [PARTICLE CLICKER](https://outred.github.io/particle-clicker/)
  
