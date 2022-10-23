@@ -12,11 +12,13 @@
  
  All iOS Working Games: (THESE DO NOT BELONG TO ME)
 
-[GEOMETRY DASH ONLINE](https://outred.github.io/geometrydashonline)
+[SHOPPING CART HERO](https://outred.github.io/shoppingcarthero) (NEW) (🔥HOT)
+
+[GEOMETRY DASH ONLINE](https://outred.github.io/geometrydashonline) (NEW)
 
 [THE IMPOSSIBLE QUIZ](https://outred.github.io/impossiblequiz) (NEW)
 
-[WORLDS HARDEST GAME](https://outred.github.io/worldshardestgame.html)(NEW)
+[WORLDS HARDEST GAME](https://outred.github.io/worldshardestgame.html)(NEW) (🔥HOT)
 
 [MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (Usually doesn't work on iPad, always works on Computer.)
 
@@ -26,13 +28,13 @@
  
  [SUPER MARIO BROS S](https://cyclokid.github.io/SuperMarioBrosS-v0.2.0.1) 
  
- [KRUNKER.IO](https://outred.github.io/krunker.html)
+ [KRUNKER.IO](https://outred.github.io/krunker.html) (🔥HOT)
  
  [NUGGET ROYALE](https://outred.github.io/nuggetroyale.html)
  
  [ARENA](https://outred.github.io/arena-scratch/)
  
- [FIVE NIGHTS AT FREDDY'S](https://outred.github.io/fivenightsatfreddys.html)
+ [FIVE NIGHTS AT FREDDY'S](https://outred.github.io/fivenightsatfreddys.html) (🔥HOT)
  
  [YOHOHO.IO](https://outred.github.io/yohohoio.html)
  
@@ -42,17 +44,17 @@
 
  [IDLE BREAKOUT](https://outred.github.io/outred.github.io-idle-breakout/)
 
- [COOKIE CLICKER](https://outred.github.io/cookieclicker/)
+ [COOKIE CLICKER](https://outred.github.io/cookieclicker/) (🔥HOT)
  
  [PARTICLE CLICKER](https://outred.github.io/particle-clicker/)
  
  [TETRIS](https://outred.github.io/javascript-tetris/)
  
- [RETRO BOWL](https://outred.github.io/retro--bowl/)
+ [RETRO BOWL](https://outred.github.io/retro--bowl/) (🔥HOT)
 
  [RETRO TETRIS (recommended)](https://outred.github.io/react-tetris/)
  
- [FLAPPY BIRD](https://outred.github.io/flappy/)
+ [FLAPPY BIRD](https://outred.github.io/flappy/) (🔥HOT)
  
  [SLOPE](https://outred.github.io/slope.html)
  
@@ -74,9 +76,9 @@
 
  All Games/YT That Work on Chromebook and Mac and PC: (THESE DO NOT BELONG TO ME)
 
- [MRBEAST YOUTUBE CHANNEL](https://outred.github.io/mrbeastyt.html)  
+ [MRBEAST YOUTUBE CHANNEL](https://outred.github.io/mrbeastyt.html) (🔥HOT)
  
- [SUPER HOT](https://outred.github.io/superhotmiami.html)
+ [SUPER HOT](https://outred.github.io/superhotmiami.html) (🔥HOT)
  
  [TANK TROUBLE](https://outred.github.io/tanktrouble.html)
  
