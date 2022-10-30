@@ -1,92 +1,56 @@
-## Welcome to OutRed Games. Here, I try to add as many games as possible. (I am currently making a new web page.)
+<!DOCTYPE HTML>
+<html>
+  <head>
+<title>OutRed Games</title>
+    <link rel="stylesheet" href="game.css">
+    <script src="game.js"></script>
+  </head>
+  <body>
+    <div class="navbar">
+      <ul>
+        <li><a href="https://outred.github.io">Home</a></li>
+        <li><a href="#" class="active">Games</a></li>
+        <li><a href="https://outred.github.io/holyunblocker.html">Unblocker</a></li>
+        <li><a href="#">Apps (Coming Soon)</a></li>
+      </ul>
+    </div>
+<h1>All Games</h1>
+    <input id="searchbar" onkeyup="search_animal()" type="text" name="search" placeholder="Search Games...">
 
-  <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/OutRed/outred.github.io/main/favicon.ico" /> <title>OutRed Games</title>
- 
- If you would like to make a request to add a game, [click here](https://github.com/OutRed/outred.github.io/discussions/15)
- 
- [Join our Discord server!](https://discord.gg/s8Z4tsExcd) (Has lots of perks!)
- 
- NEW WEBPAGE BEING DESIGNED!!! IT WILL LOOK 100% BETTER THAN THIS!!!
- 
- [HOLY UNBLOCKER](https://outred.github.io/holyunblocker.html) (NEW) 
- 
- All iOS Working Games: (THESE DO NOT BELONG TO ME)
+    <!-- ordered list -->
+    <ol id='list'>
+      <p class="game"><a href="https://outred.github.io/shoppingcarthero">Shopping Cart hero</a> (🔥HOT)</p>
+      <p class="game"><a href="https://outred.github.io/geometrydashonline">Geometry Dash</a></p>
+      <p class="game"><a href="https://outred.github.io/impossiblequiz">The Impossible Quiz</a></p>
+      <p class="game"><a href="https://outred.github.io/worldshardestgame.html">Worlds Hardest Game</a> (🔥HOT)</p>
+      <p class="game"><a href="https://outred.github.io/Chill-Eaglers/">Minecraft Java Edition</a></p>
+      <p class="game"><a href="https://outred.github.io/moomooio.html">Moomoo.io</a></p>
+      <p class="game"><a href="https://outred.github.io/survivio.html">Surviv.io</a></p>
+      <p class="game"><a href="https://outred.github.io/krunker.html">Krunker.io</a> (🔥HOT</p>
+      <p class="game"><a href="https://outred.github.io/nuggetroyale.html">Nugget Royale</a> (🔥HOT)</p>
+      <p class="game"><a href="https://outred.github.io/arena-scratch/">Arena (Scratch Edition)</a></p>
+      <p class="game"><a href="https://outred.github.io/fivenightsatfreddys.html">Five Nights at Freddys</a> (🔥HOT)</p>
+      <p class="game"><a href="https://outred.github.io/yohohoio.html">Yohoho.io</a></p>
+      <p class="game"><a href="https://outred.github.io/2048.html">2048</a></p>
+      <p class="game"><a href="https://outred.github.io/outred.github.io-idle-breakout/">Idle Breakout</a> (🔥HOT)</p>
+      <p class="game"><a href="https://outred.github.io/cookieclicker/">Cookie Clicker</a> (🔥HOT)</p>
+      <p class="game"><a href="https://outred.github.io/particle-clicker/">Particle Clicker</a></p>
+      <p class="game"><a href="https://outred.github.io/javascript-tetris/">Tetris</a></p>
+      <p class="game"><a href="https://outred.github.io/retro--bowl/">Retro Bowl</a> (🔥HOT)</p>
+      <p class="game"><a href="https://outred.github.io/react-tetris/">Retro Tetris</a></p>
+      <p class="game"><a href="https://outred.github.io/flappy/">Flappy Bird</a> (🔥HOT)</p>
+      <p class="game"><a href="https://outred.github.io/slope.html">Slope</a></p>
+      <p class="game"><a href="https://outred.github.io/Pong.html">Pong 2 Player</a></p>
+      <p class="game"><a href="https://outred.github.io/Snake.html">Snake Game</a></p>
+      <p class="game"><a href="https://outred.github.io/Bettersnake.html">Snake Game 2</a></p>
+      <p class="game"><a href="https://outred.github.io/chess.html">Chess</a></p>
+      <p class="game"><a href="https://outred.github.io/reversi.html">Reversi</a></p>
+      <p class="game"><a href="https://outred.github.io/checkers.html">Checkers</a></p>
+      <p class="game"><a href="https://outred.github.io/superhotmiami.html">Super Hot</a> (🔥HOT)</p>
+      <p class="game"><a href="https://outred.github.io/tanktrouble.html">Tank Trouble</a> (🔥HOT)</p>
+      <p class="game"><a href="https://outred.github.io/narrowescape.html">Narrow Escape</a></p>
+      <p class="game"><a href="#">More Coming Soon!</a></p>
+          </ol>
 
-[SHOPPING CART HERO](https://outred.github.io/shoppingcarthero) (NEW) (🔥HOT)
-
-[GEOMETRY DASH ONLINE](https://outred.github.io/geometrydashonline) (NEW)
-
-[THE IMPOSSIBLE QUIZ](https://outred.github.io/impossiblequiz) (NEW)
-
-[WORLDS HARDEST GAME](https://outred.github.io/worldshardestgame.html)(NEW) (🔥HOT)
-
-[MINECRAFT JAVA](https://outred.github.io/Chill-Eaglers/) (Usually doesn't work on iPad, always works on Computer.)
-
- [MOOMOO.IO](https://outred.github.io/moomooio.html) 
- 
- [SURVIV.IO](https://outred.github.io/survivio.html) 
- 
- [SUPER MARIO BROS S](https://cyclokid.github.io/SuperMarioBrosS-v0.2.0.1) 
- 
- [KRUNKER.IO](https://outred.github.io/krunker.html) (🔥HOT)
- 
- [NUGGET ROYALE](https://outred.github.io/nuggetroyale.html)
- 
- [ARENA](https://outred.github.io/arena-scratch/)
- 
- [FIVE NIGHTS AT FREDDY'S](https://outred.github.io/fivenightsatfreddys.html) (🔥HOT)
- 
- [YOHOHO.IO](https://outred.github.io/yohohoio.html)
- 
- [GETTING OVER IT](https://outred.github.io/gettingoverit.html)
- 
- [2048](https://outred.github.io/2048.html)
-
- [IDLE BREAKOUT](https://outred.github.io/outred.github.io-idle-breakout/)
-
- [COOKIE CLICKER](https://outred.github.io/cookieclicker/) (🔥HOT)
- 
- [PARTICLE CLICKER](https://outred.github.io/particle-clicker/)
- 
- [TETRIS](https://outred.github.io/javascript-tetris/)
- 
- [RETRO BOWL](https://outred.github.io/retro--bowl/) (🔥HOT)
-
- [RETRO TETRIS (recommended)](https://outred.github.io/react-tetris/)
- 
- [FLAPPY BIRD](https://outred.github.io/flappy/) (🔥HOT)
- 
- [SLOPE](https://outred.github.io/slope.html)
- 
- [SIMPLE PONG GAME 2 PLAYER](https://outred.github.io/Pong.html)
-
- [SIMPLE PONG GAME LEVEL 2](https://outred.github.io/Ponglvl2.html)
-
- [SIMPLE PONG GAME LEVEL 3](https://outred.github.io/Ponglvl3.html)
-
- [SNAKE GAME](https://outred.github.io/Snake.html) 
-
- [SNAKE GAME 2](https://outred.github.io/Bettersnake.html)
-
- [CHESS](https://outred.github.io/chess.html)
-
- [REVERSI](https://outred.github.io/reversi.html)
-
- [CHECKERS](https://outred.github.io/checkers.html)
-
- All Games/YT That Work on Chromebook and Mac and PC: (THESE DO NOT BELONG TO ME)
-
- [MRBEAST YOUTUBE CHANNEL](https://outred.github.io/mrbeastyt.html) (🔥HOT)
- 
- [SUPER HOT](https://outred.github.io/superhotmiami.html) (🔥HOT)
- 
- [TANK TROUBLE](https://outred.github.io/tanktrouble.html)
- 
- [NARROW ESCAPE](https://outred.github.io/narrowescape.html)
- 
-
- 
- 
- 
-  <a href='http://www.freevisitorcounters.com'>at freevisitorcounters.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=7acf3ece2f0048785895f18aa3d3dd0ce232255a'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/969767/t/1"></script>
+  </body>
+</html>
