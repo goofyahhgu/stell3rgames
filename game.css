@@ -78,3 +78,21 @@ input[type=text]:focus {
 a {
   color: indigo;
 }
+
+.ad {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  transition: 0.5s;
+}
+
+.ad:hover {
+  opacity: 0.3;
+}
+.adsection {
+    position: absolute;
+    top: 37%;
+    left: 50%;
+    transform: translate(-50%, -40%);  
+}    
+
