@@ -1,0 +1,80 @@
+body {
+  background-color: grey;
+  font-family: arial;
+  text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+}
+
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    transition: 0.5s;
+}
+
+li a:hover {
+    background-color: #111;
+    -webkit-border-radius: 33px;
+    -moz-border-radius: 33px;
+    border-radius: 33px;
+}
+
+.active {
+    background-color: #04AA6D;
+    color: white;
+    border-radius: 33px;
+}
+
+p {
+  font-size: 20px;
+}
+
+#searchbar {
+    margin-left: 15%;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+input[type=text] {
+    width: 30%;
+    -webkit-transition: width 0.15s ease-in-out;
+    transition: width 0.15s ease-in-out;
+}
+
+/* When the input field gets focus,
+		change its width to 100% */
+input[type=text]:focus {
+    width: 70%;
+}
+
+#list {
+    font-size: 1.5em;
+    margin-left: 90px;
+  list-style: none;
+}
+
+.animals {
+    display: list-item;
+}
+
+a {
+  color: indigo;
+}
