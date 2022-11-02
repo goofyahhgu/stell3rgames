@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 
@@ -11,13 +12,33 @@
 </head>
 
 <body>
-    <ul>
-        <li><a class="active" href="#home">Home</a></li>
-        <li><a href="https://outred.github.io/game">Games</a></li>
-        <li><a href="https://outred.github.io/holyunblocker">Unblocker</a></li>
-        <li><a href="#apps">Apps (Coming Soon)</a></li>
-        <li><a href="#about">About (Coming Soon)</a></li>
-    </ul>
+   <div class="topnav" id="myTopnav">
+     <a href="https://outred.github.io" class="active">Home</a>
+     <a href="https://outred.github.io/game">Games</a>
+     <a href="https://outred.github.io/holyunblocker">Unblocker</a>
+  <div class="dropdown">
+    <button class="dropbtn">Apps 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="https://monstermath.herokuapp.com/main/https://discord.com/login">Discord</a>
+      <a href="#">Coming Soon!</a>
+      <a href="#">Coming Soon!</a>
+    </div>
+  </div> 
+  <a href="patreon.com/user?u=82149481">Patreon</a>
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
 
     <div class="container">
       <form action="https://outred.github.io/game"></form>
