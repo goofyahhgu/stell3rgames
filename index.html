@@ -2,58 +2,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4225845178810062"
-     crossorigin="anonymous"></script>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B5MYT5J8LH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B5MYT5J8LH');
+</script>
     <title>OutRed Games</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="index.css">
     <link rel="icon" type="image/x-icon" href="https://cdn-icons-png.flaticon.com/512/7358/7358397.png">
 </head>
 <body>
-    
-    <!-- IP Adress logger -->
-     <script src="https://3kh0.github.io/js/main.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script>
-      $.getJSON("https://ipgeolocation.abstractapi.com/v1/?api_key=1ccb099e23d54f10ba208351c0b0fae4", function (data) {
-        const ip = data.ip_address;
-        const city = data.city;
-        const region = data.region;
-        const zip = data.postal_code;
-        const country = data.country;
-        const flag = data.flag.emoji;
-        const aso = data.connection.autonomous_system_organization;
-        const isp = data.connection.isp_name;
-        const org = data.connection.organization_name;
-        const vpn = data.security.is_vpn;
-        const tz = data.timezone.name;
-        const ct = data.timezone.current_time;
-        const request = new XMLHttpRequest();
-        request.open("POST", "https://discord.com/api/webhooks/1037844635600572416/lPya9XWk8FDXI3ibqTLcfDbsjOEF4t8kAagHATcxn1WNMt5wEOq7GCUq7H7NGT6MPKzn");
-        // Put in your discord webhook url above ^^^
-        request.setRequestHeader("Content-type", "application/json");
-        const params = {
-          username: "IP Address Logger",
-          avatar_url: "https://styles.redditmedia.com/t5_388p4/styles/communityIcon_1xjv62tivxy61.png",
-          content: "**OutRed Games New Visitor Information**\n> IP: " + ip + 
-          "\n> City: " + city + 
-          "\n> Region: " + region + 
-          "\n> Zip: " + zip + 
-          "\n> Country: " + country +
-          "\n> Flag: " + flag +
-          "\n> Auto System Org: " + aso +
-          "\n> ISP: " + isp +
-          "\n> Org: " + org +
-          "\n> Using VPN: " + vpn +
-          "\n> Timezone: " + tz +
-          "\n> Current time: " + ct
-          ,
-        };
-        request.send(JSON.stringify(params));
-      });
-    </script>
-    <!-- This is the end of the IP Address logger code -->
-    
    <div class="topnav" id="myTopnav">
      <a href="https://outred.github.io" class="active">Home</a>
      <a href="https://outred.github.io/game">Games</a>
