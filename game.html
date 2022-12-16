@@ -20,15 +20,34 @@
      crossorigin="anonymous"></script>
 </head>
 
-<body>
-    <div class="navbar">
-        <ul>
-            <li><a href="https://outred.github.io">Home</a></li>
-            <li><a href="#" class="active">Games</a></li>
-            <li><a href="https://outred.github.io/holyunblocker.html">Unblocker</a></li>
-            <li><a href="#">Apps (Coming Soon)</a></li>
-        </ul>
+<div class="topnav" id="myTopnav">
+     <a href="https://outred.github.io" class="active">Home</a>
+     <a href="https://outred.github.io/game">Games</a>
+     <a href="https://outred.github.io/holyunblocker">Unblocker</a>
+  <div class="dropdown">
+    <button class="dropbtn">Apps 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="https://monstermath.herokuapp.com/main/https://discord.com/login">Discord</a>
+      <a href="#">Coming Soon!</a>
+      <a href="#">Coming Soon!</a>
     </div>
+  </div> 
+  <a href="patreon.com/user?u=82149481">Patreon</a>
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
+
   
     <h1>All Games</h1>
      <p>Sorry for not updating in awhile! Been really busy!</p>
