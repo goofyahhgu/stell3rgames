@@ -50,7 +50,71 @@ function myFunction() {
 
   
     <h1>All Games</h1>
-     <h3 id="subtitle">...</h3>
+    <!-- Dynamic Messages -->
+     <h2 id="message"></h2>
+
+  <script>
+    // Array of messages
+    var messages = [
+      "Unblocked Games? Wha?...",
+      "eeeeeee",
+      "im trapped!",
+      "Does Redbull give you wings?",
+      "waltuh",
+        "help im being forced to make these!",
+      "for students by students",
+      "69420/10 game site",
+      "Game your face off! -Very Wise Teacher, made a quilt of lines.",
+      "Oh hey it's you again!",
+      "y-y-your-mom... hahahhaha",
+      "@quality_memes_69_420",
+      "Who did it? (me already knowing jamal)",
+      "RIP Kracc Bacc, you will always live in our hearts.",
+      "TECHNO NEVER DIES BABY",
+      "does anyone actually read these?",
+      "join the tribe EHAHEHA!",
+      "join the discord server on home page pls",
+      "text me! 712-354-6873",
+      "high quality games",
+      "RIP Virgil",
+      "LECOCO FOR PRESIDENT!!!",
+      "mmmm... brisket...",
+      "I don't get paid enough!",
+      "My power bill is insane!",
+      "69 funny number haha",
+      "i need an employee join my discord",
+      "#RealizingYourSuperDumbSoYouPlayGames be like",
+      "Delete TikTok! I know you have it...",
+      "Wowzers, no ones ever read this before!",
+      "Look bob, its another person reading us!",
+      "Oh how do i come up with these, oh how...",
+      "DM's always open on Discord",
+      "I've ran out of ideas!",
+      "Bozo Blocks, Robbits, now OutRed Games, how many projects will OutRed have?",
+      "Made with GitHub Pages",
+      "School stinks and we all know it",
+      "♫ ♬All my friends are toxic ♫ ♬",
+      "W Rizz",
+      "Da Rizzler",
+      "The Rizzard of Oz",
+      "Kids these days am I right?",
+      "Give me ideas! https://discord.gg/keFMTXbhEA",
+      "I'm bored...",
+      "Oh no not more homework",
+      "Redbull gives you wings!"
+      "Slowly taking one braincell at a time..."
+    ];
+
+    // Function to select and display a random message
+    function displayRandomMessage() {
+      var message = messages[Math.floor(Math.random() * messages.length)];
+      document.getElementById("message").innerHTML = message;
+    }
+
+    // Call the function when the page loads
+    displayRandomMessage();
+  </script>
+    <!-- End of Dynamic Messages -->
     <input id="searchbar" onkeyup="search_animal()" type="text" name="search" placeholder="Search Games...">
     <!-- ordered list -->
     <ol id='list'>
