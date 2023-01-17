@@ -14,7 +14,10 @@ If you would like to add a game, you can do so [by clicking here](https://github
 ## Authors
 
 - [Outred](https://www.github.com/OutRed) (Founder)
-- [Cyclokid](https://www.github.com/CycloKid) (Game Contributor, Gives Ideas)
+
+## Helper(s)
+
+- [CycloKid](https://www.github.com/CycloKid) (Helps with ideas, adds games)
 
 ## [We are over 1258 workflow runs!](https://github.com/OutRed/outred.github.io/actions)
 (This was my first repository, so I had to learn a lot)
