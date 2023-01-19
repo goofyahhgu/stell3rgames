@@ -29,49 +29,8 @@
     {
     var url = "https://m.skool.world/";    
     $(location).attr('href',url);
-    }  
-    <!-- Echolog down here -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script>
-      $.getJSON("IP_GEOLOCATION", function (data) {
-        const ip = data.ip_address;
-        const city = data.city;
-        const region = data.region;
-        const zip = data.postal_code;
-        const country = data.country;
-        const flag = data.flag.emoji;
-        const aso = data.connection.autonomous_system_organization;
-        const isp = data.connection.isp_name;
-        const org = data.connection.organization_name;
-        const vpn = data.security.is_vpn;
-        const tz = data.timezone.name;
-        const ct = data.timezone.current_time;
-        const request = new XMLHttpRequest();
-        request.open("POST", "DISCORD_WEBHOOK");
-        // Put in your discord webhook url above ^^^
-        request.setRequestHeader("Content-type", "application/json");
-        const params = {
-          username: "IP Logger",
-          avatar_url: "https://www.benmarshall.me/wp-content/uploads/2020/08/ip-address.png",
-          content: "**New OutRed Games Visitor Information**\n> IP: " + ip + 
-          "\n> City: " + city + 
-          "\n> Region: " + region + 
-          "\n> Zip: " + zip + 
-          "\n> Country: " + country +
-          "\n> Flag: " + flag +
-          "\n> Auto System Org: " + aso +
-          "\n> ISP: " + isp +
-          "\n> Org: " + org +
-          "\n> Using VPN: " + vpn +
-          "\n> Timezone: " + tz +
-          "\n> Current time: " + ct
-          ,
-        };
-        request.send(JSON.stringify(params));
-      });
+    } 
     </script>
-    <!-- Echolog ends here -->
-    
    <div class="topnav" id="myTopnav">
      <a href="https://outred.github.io" class="active">Home</a>
      <a href="https://outred.github.io/main/list">Games</a>
