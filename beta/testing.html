@@ -99,8 +99,22 @@ a {
 .container {
     padding: 1px;
 }
-
     </style>
+    
+     <!-- Mobile redirect -->
+      <script type="text/javascript">
+    if (screen.width <= 699) {
+    document.location = "https://outred.github.io/mobile/";
+    }
+    </script>
+    <script>
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) )     
+    {
+    var url = "https://outred.github.io/mobile/";    
+    $(location).attr('href',url);
+    }
+    </script>
+    
 </head>
 
 <body>
