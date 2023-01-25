@@ -3,7 +3,7 @@
 This is a website with lots of games on it that you can play. This is for those of you who are
 maybe bored at school or at work, and you just want to take a break and relax your mind playing some of the best games out there. If you like this please give me a star.
 ## [Play Here!](https://outred.github.io/game)
-## Deploy Your Own
+## Deploy Your Own (Note: Some games may not work when deploying your own due to compatibility. I am working on fixing this issue.
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/OutRed/outred.github.io)
 ## Links:
 - https://outred.github.io
