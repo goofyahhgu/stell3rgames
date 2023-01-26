@@ -8,6 +8,7 @@ maybe bored at school or at work, and you just want to take a break and relax yo
 ## Links:
 - https://outred.github.io
 - https://outred-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+- https://outred-repl.joemomma1234.repl.co/
 - (more coming soon)
 ## [Join the Discord Support Server](https://discord.gg/s8Z4tsExcd)
 ## [Join the 3kh0 server to find other info!](https://discord.gg/3kh0)
