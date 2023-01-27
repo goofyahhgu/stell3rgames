@@ -135,6 +135,14 @@ a {
             </div>
         </a>
 -->
+    <!-- to ensure jquery loads correctly -->
+    <script>
+  if (typeof jQuery === 'undefined') {  
+    console.log('jQuery is not loaded');
+  } else {
+    console.log('jQuery is loaded');
+  }
+</script>
   <!-- Search Script -->
   <script>$("#search-button").on("click", function() {
   var searchValue = $("#search-input").val().toLowerCase();
