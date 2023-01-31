@@ -128,45 +128,15 @@ a {
             </div>
         </a>
 -->
-    <!-- to ensure jquery loads correctly -->
-    <script>
-  if (typeof jQuery === 'undefined') {  
-    console.log('jQuery is not loaded');
-  } else {
-    console.log('jQuery is loaded');
-  }
-</script>
-  <!-- Search Script -->
-  <script>$("#search-button").on("click", function() {
-  var searchValue = $("#search-input").val().toLowerCase();
-  $(".game-title").each(function() {
-    var gameName = $(this).text().toLowerCase();
-    if (gameName.indexOf(searchValue) !== -1) {
-      $(this).closest(".game-link").show();
-    } else {
-      $(this).closest(".game-link").hide();
-    }
-  });
-});
-  $("#search-input").on("keyup", function() {
-  var searchValue = $("#search-input").val().toLowerCase();
-  $(".game-title").each(function() {
-    var gameName = $(this).text().toLowerCase();
-    if (gameName.indexOf(searchValue) !== -1) {
-      $(this).closest(".game-link").show();
-    } else {
-      $(this).closest(".game-link").hide();
-    }
-  });
-});
-</script>
     <h1 class="title">All Games</h1>
     <h2>NOTE: MORE GAMES GETTING ADDED THIS WEEK, BACKUPS MOVING SLOW</h2>
-    <input type="text" id="search-input" placeholder="Search for a game...">
-<button id="search-button">Search</button>
-
     <div class="flex-container"> 
         <!-- flex container stuff here -->
+         <a href="https://outred.github.io/g/among-us/" class="game-link container">
+            <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/amongus.jpg" alt="icon" loading="lazy" /></center>
+                <h1 class="game-title">Among Us</h1>
+            </div>
+        </a>
         <a href="https://outred.github.io/g/1v1lol/" class="game-link container">
             <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/1v1.webp" alt="icon" loading="lazy" /></center>
                 <h1 class="game-title">1v1.lol</h1>
