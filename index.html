@@ -4,6 +4,10 @@
 <head>
     <title>OutRed Games</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Stylesheet for cookie indicator -->
+    <link rel="stylesheet" href="/css/popup.css">
+    <!-- Script to load cookie indicator -->
+    <script src="/js/popup.js" </script>
     <style>
         body {
     color: black;
@@ -160,6 +164,11 @@ a {
                 <h1 class="game-title">Patreon</h1>
         </div> </a>
     </div>
+    <div id="popup">
+  <p>This website uses cookies to<br>enhance user experience. By<br>using this website you are<br>accepting the <a href="#">Terms of Service</a>.</p>
+  <center><button id="close">I Accept the TOS</button></center>
+</div>
+
     <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
     new Crate({
         server: '1012472708010889217', // OutRed Support
