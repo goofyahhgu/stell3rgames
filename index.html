@@ -118,30 +118,7 @@ a {
 </head>
 <body>
     <h1 class="title">OutRed Games</h1>
-   <p>Active Users: <span id="counter">0</span></p>
-
-<script>
-  let counter = 0;
-
-  // Get the current counter value from local storage
-  const currentCounter = localStorage.getItem("counter");
-  if (currentCounter) {
-    counter = parseInt(currentCounter);
-  }
-
-  // Increase the counter by 1 when the page loads
-  counter++;
-  localStorage.setItem("counter", counter);
-
-  // Decrease the counter by 1 when the page unloads
-  window.onbeforeunload = function() {
-    counter--;
-    localStorage.setItem("counter", counter);
-  }
-
-  // Update the counter on the page
-  document.getElementById("counter").innerHTML = counter;
-</script>
+   <p>Now with 1k Commits! (Psst.. Wiz Kid for life, you're welcome hry)
 
 
     <div class="flex-container"> <a href="/g" class="game-link container">
