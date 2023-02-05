@@ -129,7 +129,7 @@ body {
         outline: none;
       }
       
-      #magenta:active {
+      #light:active {
           transform: translateY(5px);
           box-shadow: 0px 0px 0px 0px #a29bfe;
       }
@@ -138,7 +138,7 @@ body {
         background-color: #0047AB;
         padding: 10px 20px;
         font-size: 16px;
-        color: black;
+        color: white;
         border-radius: 5px;
         transition: all ease 0.1s;
         box-shadow: 0px 5px 0px 0px #6495ED;
