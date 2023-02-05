@@ -30,7 +30,7 @@ body {
     font-weight: bold;
 }
 
-/* Button CSS */
+/* Red Button */
  #clear {
         background-color: #D10000;
         padding: 10px 20px;
@@ -47,7 +47,7 @@ body {
           transform: translateY(5px);
           box-shadow: 0px 0px 0px 0px #a29bfe;
       }
-      
+      /* Green button */
       #create {
         background-color: #00A300;
         padding: 10px 20px;
@@ -64,6 +64,30 @@ body {
           transform: translateY(5px);
           box-shadow: 0px 0px 0px 0px #a29bfe;
       }
+
+/* Grey button */
+      #grey {
+        background-color: #00A300;
+        padding: 10px 20px;
+        font-size: 16px;
+        color: white;
+        border-radius: 5px;
+        transition: all ease 0.1s;
+        box-shadow: 0px 5px 0px 0px #00D100;
+        border: none;
+        outline: none;
+      }
+      
+      #grey:active {
+          transform: translateY(5px);
+          box-shadow: 0px 0px 0px 0px #a29bfe;
+      }
+/* Magenta button */
+
+/* Dark button */
+
+/* Light button */
+
 
 /* Scrollbar */
 
