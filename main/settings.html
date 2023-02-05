@@ -73,6 +73,12 @@
       <input type="checkbox" id="mode-switch">
       <span class="slider"></span>
     </label>
+ <div class="section-title">Tab Cloak</div>
+    <div class="buttons">
+      <input id="title" class="input" placeholder="Title" onkeyup="setTitle(this.value)" />
+      <input id="icon" class="input" placeholder="Favicon" onkeyup="setFavicon(this.value.trim())" />
+      <button class="button" onclick="resetTab()">Reset</button>
+    </div>
 
     <!-- Add content to the body -->
     <h1>Hello World!</h1>
