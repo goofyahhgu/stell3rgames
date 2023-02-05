@@ -82,3 +82,10 @@ body {
   background: #30D5C8; 
   border-radius: 33px;
 }
+
+input {
+   padding: 10px;
+   font-size: 18px;      
+        border-radius: 33px;
+        border: 1px solid grey;
+      }
