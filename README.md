@@ -27,6 +27,6 @@ If you have any feedback, please reach out to me [here](https://github.com/OutRe
 
 ## [Add a Game](https://github.com/OutRed/outred.github.io/discussions/15)
 If you would like to add a game, you can do so [by clicking here](https://github.com/OutRed/outred.github.io/discussions/15). We want to make this website full of your favorite games and now you can do that!
-## Author(s)
+## Owner/Creator/Author
 
-- [OutRed](https://www.github.com/OutRed) (Founder)
+- [OutRed](https://www.github.com/OutRed)
