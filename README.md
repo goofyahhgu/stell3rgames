@@ -13,7 +13,7 @@ This website offers games to play, unblockers, and much more.
 - Unblocked Apps
 - Meme Soundboard (ALPHA)
 - Hacks to Educational Games (ALPHA)
-## Deploy Your Own (Note: Some games may not work when deploying your own due to compatibility. I am working on fixing this issue.
+## Deploy Unblocked Copy (Note: Some games may not work when deploying your own due to compatibility. I am working on fixing this issue.
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/OutRed/outred.github.io)
 ## Links:
 - https://outred.github.io
