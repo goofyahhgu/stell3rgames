@@ -19,7 +19,7 @@ This website offers games to play, unblockers, and much more.
 - https://outred.github.io
 - https://outred-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 - https://outred-repl.joemomma1234.repl.co/
-- (more coming soon)
+- (More coming soon)
 ## [Join the Discord Server](https://discord.gg/s8Z4tsExcd)
 
 If you have any feedback, please reach out to me [here](https://github.com/OutRed/outred.github.io/discussions/17). I are open to anything! Our goal is to make this the best game website there is EVER.
