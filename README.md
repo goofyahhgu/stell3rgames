@@ -1,9 +1,8 @@
 ![outred.github.io](https://socialify.git.ci/OutRed/outred.github.io/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 
 # OutRed Games <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOutRed%2Foutred.github.io&count_bg=%236BA83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Page+Visits&edge_flat=false"/></a>
-
-This is a website with lots of games on it that you can play. This is for those of you who are
-maybe bored at school or at work, and you just want to take a break and relax your mind playing some of the best games out there. If you like this please give me a star.
+<img src="https://invidget.switchblade.xyz/9qYmpWS8ve?theme=dark)](https://discord.gg/9qYmpWS8ve" alt="discord"></img>
+This website offers games to play, unblockers, and much more.
 ## [Play Here!](https://outred.github.io/game)
 ## Features
 - Clean UI
