@@ -19,6 +19,10 @@ This website offers games to play, unblockers, and much more.
 - https://outred.github.io
 - https://outred-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
 - https://outred-repl.joemomma1234.repl.co/
+- https://outred-io-site.vercel.app/
+- https://outredio-outred.vercel.app/
+- https://outredsite-outred.vercel.app/
+- 
 - (More coming soon)
 ## [Join the Discord Server](https://discord.gg/s8Z4tsExcd)
 
