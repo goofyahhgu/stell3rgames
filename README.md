@@ -22,7 +22,7 @@ This website offers games to play, unblockers, and much more.
 - (More coming soon)
 ## [Join the Discord Server](https://discord.gg/s8Z4tsExcd)
 
-If you have any feedback, please reach out to me [here](https://github.com/OutRed/outred.github.io/discussions/17). I are open to anything! Our goal is to make this the best game website there is EVER.
+If you have any feedback, please reach out to me [here](https://github.com/OutRed/outred.github.io/discussions/17). I are open to anything! My goal is to make this the best game website there is EVER.
 
 
 ## [Add a Game](https://github.com/OutRed/outred.github.io/discussions/15)
