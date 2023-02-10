@@ -33,3 +33,6 @@ If you would like to add a game, you can do so [by clicking here](https://github
 ## Owner/Creator/Author
 
 - [OutRed](https://www.github.com/OutRed)
+
+
+✱ In beta, and probably will not work until it is removed from the beta tag.
