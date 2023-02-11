@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OutRed | TOS</title>
+    <style>
+html {
+  scroll-behavior: smooth;
+}
+      
+        body {
+    color: white;;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background: #202124;
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    scroll-behavior: smooth;
+}
+
+/* custom scrollbar */
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #202124; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #880ED4; 
+  border-radius: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    scroll-behavior: smooth;;
+}
+
+.title {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.game-link {
+    height: 330px;
+    width: 250px;
+}
+
+.game-tile {
+    background-color: white;
+    height: 300px;
+    width: 220px;
+    color: white;
+    transition: 0.2s;
+    border-radius: 50px;
+    color: black;
+    padding: 3%;
+}
+
+.game-tile:hover {
+    text-decoration: none;
+    transform: scale(0.93);
+    cursor: pointer;
+    -webkit-box-shadow: 0px 0px 19px #000000;
+    -moz-box-shadow: 0px 0px 19px #000000;
+    box-shadow: 0px 0px 19px #000000;
+}
+
+.game-tile:active {
+  transform: scale(0.98);
+}
+
+.game-icon {
+    max-width: 90%;
+    margin: 5 10% auto;
+    border-radius: 50px;
+    place-items: center center;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    height: auto;
+    text-align: center;
+}
+
+.game-title {
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    order: 0;
+    flex-grow: 0;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    repeat:(auto-fill, minmax(200px, 1fr))
+}
+
+.container {
+    padding: 1px;
+}
+      .nav {
+        background-color: #171717;
+        color: white;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%; 
+        padding: 15px;
+        font-size: 16px;
+      }
+      
+      .nav a {
+        margin: 14px;
+        color: white;
+        transition: 0.2s;
+      }
+      
+      .nav a:hover {
+        cursor: pointer;
+        color: grey;
+      }
+      
+      .active {
+        background-color: #6C0BA9;
+        border-radius: 33px;
+        padding: 14px;
+      }
+      
+      .content {
+        margin-top: 65px; /* adjust the value as needed */
+}
+      
+      #phrase {
+        margin: 60px;
+        font-size: 24px;
+      }
+
+      .mid {
+        margin-top: 60%;
+      }
+
+      /* Play button */
+      .play {
+  padding: 10px 20px;
+  border: none;
+  font-size: 17px;
+  color: #fff;
+  border-radius: 7px;
+  letter-spacing: 3px;
+  font-weight: 700;
+  text-transform: uppercase;
+  transition: 0.5s;
+  transition-property: box-shadow;
+  margin-top: 20px;
+}
+
+.play {
+  background: rgb(0,140,255);
+  box-shadow: 0 0 25px rgb(0,140,255);
+  transition: all 0.2s ease;
+  scroll-behavior: smooth;
+}
+
+.play:hover {
+  box-shadow: 0 0 5px rgb(0,140,255),
+              0 0 25px rgb(0,140,255),
+              0 0 50px rgb(0,140,255),
+              0 0 100px rgb(0,140,255);
+  transform:scale(1.1);
+  cursor: pointer;
+}
+
+.logo {
+  height: 45px;
+  border-radius: 15px;
+  position: absolute;
+  left: 6px;
+  user-select: none;
+  top: 3px;
+}
+
+.logo:hover {
+  cursor: pointer;
+   
+}
+
+.line {
+  height: 1px;
+  width: 100%;
+  background-color: white;
+  margin-top: 90px;
+}
+
+.front {
+  margin-top: 100px;
+}
+
+/* Apps button */
+.shadow__btn {
+  padding: 10px 20px;
+  border: none;
+  font-size: 17px;
+  color: #fff;
+  border-radius: 7px;
+  letter-spacing: 3px;
+  font-weight: 700;
+  text-transform: uppercase;
+  transition-property: box-shadow;
+  transition: 0.2s;
+  margin: 25px;
+}
+
+.shadow__btn {
+  background: #03A89E;
+  box-shadow: 0 0 25px #03A89E;
+}
+
+.shadow__btn:hover {
+  box-shadow: 0 0 5px #03A89E,
+              0 0 25px #03A89E,
+              0 0 50px #03A89E,
+              0 0 100px #03A89E;
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+footer { 
+  padding: 5px;
+}
+    </style>
+</head>
+<body>
+    <div class="nav">
+        <img class="logo" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/standard%20(3).gif">
+    <a class="active" href="#">Home</a>
+    <a href="#games">Games</a>
+    <a href="#apps">Apps</a>   
+    <a href="#">Unblocker</a>
+    <a href="#">Settings</a>
+    <a href="#">TOS</a>
+    <a href="#">About</a>
+      </div>
+    <h1 class="title">Terms of Service</h1>
+    <h2>This document outlines the terms of service (TOS) for the use of OutRed Games, a website offering web games. By using this website, you agree to the following terms and conditions. If you do not agree with these TOS, please do not use this website.
+        
+        Responsibility for User Conduct<br><br>
+        OutRed Games does not assume any responsibility for the conduct of its users while playing games on the website. You are solely responsible for your actions and behavior while using the website. OutRed Games does not endorse any user-generated content and is not responsible for any losses, damages, or other liabilities that may arise from your use of the website.
+        
+        Content Restrictions<br><br>
+        You may not use this website to engage in any illegal, defamatory, harmful, obscene, or otherwise offensive behavior. OutRed Games reserves the right to remove you from the website if you violate these restrictions.
+        
+        Use of Website<br><br>
+        This website is intended for personal use only. You may not use this website for commercial purposes without the express permission of OutRed Games. OutRed Games reserves the right to refuse service to anyone at any time.
+        
+        Disclaimer of Warranties<br><br>
+        OutRed Games makes no representations or warranties of any kind, express or implied, as to the operation of this website or the games offered on this site. You agree that your use of this website is at your sole risk.
+        
+        Limitation of Liability<br><br>
+        Under no circumstances shall OutRed Games be liable for any damages, including, but not limited to, direct, indirect, incidental, special, or consequential damages arising from your use of this website.
+        
+        Acceptance of TOS
+        By using this website, you signify your acceptance of these TOS. If you do not agree to these TOS, please do not use this website. OutRed Games reserves the right to update or modify these TOS at any time without notice. Your continued use of this website after any changes have been made signifies your acceptance of the updated TOS.</h2>
+        <footer><h2>© OutRed 2023</h2></footer>
+</body>
+</html>
