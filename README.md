@@ -11,8 +11,8 @@ This website offers games to play, unblockers, and much more.
 - Apps
 - About:blank Embedder
 - Unblocked Apps
-- Meme Soundboard (Beta✱)
-- Hacks to Educational Games (Beta✱)
+- Meme Soundboard ✱
+- Hacks to Educational Games ✱
 ## Deploy Unblocked Copy (Note: Some games will not work on other links due to compatibility)
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/OutRed/outred.github.io)
 ## Links:
