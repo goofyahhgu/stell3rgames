@@ -35,4 +35,4 @@ If you would like to add a game, you can do so [by clicking here](https://github
 - [OutRed](https://www.github.com/OutRed)
 
 
-✱ In beta, and probably will not work until it is removed from the beta tag.
+✱ In beta, will not worked until removed
