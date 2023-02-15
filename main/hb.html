@@ -12,32 +12,41 @@
       
         body {
     color: white;
+    background-color: #292929;
     text-align: center;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    background: #202124;
     background-size: 400% 400%;
     animation: gradient 15s ease infinite;
     height: 100vh;
     justify-content: center;
     align-items: center;
     scroll-behavior: smooth;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
-
-/* custom scrollbar */
-/* width */
+/* scrollbar
 ::-webkit-scrollbar {
   width: 10px;
 }
 
-/* Track */
+
 ::-webkit-scrollbar-track {
   background: #202124; 
 }
  
-/* Handle */
+
 ::-webkit-scrollbar-thumb {
   background: #880ED4; 
   border-radius: 50px;
+}
+*/
+
+.hyperlink {
+    text-decoration: none;
+    color: #0076ff;
+    scroll-behavior: smooth;;
+}
+
+.hyperlink:hover {
+  text-decoration: underline;
 }
 
 .title {
@@ -86,7 +95,7 @@
     text-align: center;
 }
 
-.game-title {
+.tile-title {
     text-align: center;
 }
 
@@ -111,15 +120,16 @@
         top: 0;
         left: 0;
         width: 100%; 
-        padding: 15px;
-        font-size: 16px;
+        padding: 18px;
+        font-size: 18px;
+        text-align: right;
       }
       
       .nav a {
-        margin: 14px;
+        margin: 15px;
         color: white;
         transition: 0.2s;
-        text-decoration: none;;
+        padding-right: 13px
       }
       
       .nav a:hover {
@@ -129,8 +139,8 @@
       
       .active {
         background-color: #6C0BA9;
-        border-radius: 33px;
-        padding: 14px;
+        border-radius: 27px;
+        padding: 17px;
       }
       
       .content {
@@ -179,11 +189,22 @@
 
 .logo {
   height: 45px;
-  border-radius: 15px;
+  border-radius: 33px;
   position: absolute;
-  left: 6px;
+  left: 7px;
   user-select: none;
-  top: 3px;
+  top: -19px;
+  user-select: none;
+  animation: rainbow-colors 2s linear infinite;
+  animation-delay: calc(-2s * var(--char-percent));
+}
+/* Unfortunately, browsers try to take the shortest distance between transition/animation properties, so a simple `0turn` to `1turn` doesn't get the proper effect. */
+@keyframes rainbow-colors {
+  0% { color: hsl(0turn, 90%, 65%); }
+  25% { color: hsl(.25turn, 90%, 65%); }
+  50% { color: hsl(.5turn, 90%, 65%); }
+  75% { color: hsl(.75turn, 90%, 65%); }
+  100% { color: hsl(1turn, 90%, 65%); }
 }
 
 .logo:hover {
@@ -234,10 +255,18 @@
 footer { 
   padding: 5px;
 }
-        iframe {
-            border: none;
-            border-radius: 18px;
-        }
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+i {
+  color: white;
+}
             </style>
 </head>
       <!-- Google tag (gtag.js) -->
@@ -250,16 +279,15 @@ footer {
         gtag('config', 'G-B5MYT5J8LH');
       </script>
 <body>
-    <div class="nav">
-        <a href="https://outred.github.io/"><img class="logo" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/standard%20(3).gif"></a>
-    <a href="#">Home</a>
-    <a href="#games">Games</a>
-    <a href="#apps">Apps</a>   
-    <a class="active" href="/main/hb">Unblocker</a>
-    <a href="/main/settings">Settings</a>
-    <a href="/main/tos">TOS</a>
-    <a href="/main/about">About</a>
-      </div>
+   <div class="nav">
+    <a href="https://outred.github.io/"><h1 class="logo">OutRed Games</h1></a>
+    <i class="fa fa-bell" style="font-size:22px;color:white"></i>
+<a class="active" href="https://outred.github.io">Home</a>
+<a href="#games">Games</a>
+<a href="#apps">Apps</a>   
+<a href="hb">Unblocker</a>
+<a href="settings">Settings</a>
+  </div>
       <div class="content">
     <div class="front">
     <h1 class="title">Holy Ünblocker</h1>
