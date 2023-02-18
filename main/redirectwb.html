@@ -11,11 +11,21 @@
             color: white;
             background-color: #121212;
 		}
+      
+        a {
+    text-decoration: none;
+    color: #0076ff;
+    scroll-behavior: smooth;;
+}
+
+a:hover {
+  text-decoration: underline;
+}
 	</style>
 </head>
 <body>
     <h1>OutRed Games</h1>
-	<p>You will be redirected in <span id="countdown">5</span> seconds...</p>
+	<h2>You will be redirected in <span id="countdown">5</span> seconds...</h2>
 	<script>
 		var seconds = 5;
 		var countdown = setInterval(function() {
@@ -27,5 +37,8 @@
 			}
 		}, 1000);
 	</script>
+    <br>
+
+    <p>Weren't redirected? <a href="https://womginx.joemomma1234.repl.co">click here</a>.</p>
 </body>
 </html>
