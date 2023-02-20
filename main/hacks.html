@@ -1,34 +1,175 @@
 <!DOCTYPE html>
-<html>
-  <head>
-<title>Coming Soon | OutRed</title>
-    <script async src="https://arc.io/widget.min.js#U4o8gDrC"></script>
-    <link rel="stylesheet" href="https://outred.github.io/css/universal.css"/>
-  </head>
-  <h1 class="title">Coming soon in:</h1>
-  <h1 class="title" id="timer"></h1>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UNB | OutRed</title>
+  <script async src="https://arc.io/widget.min.js#U4o8gDrC"></script>
+  <style>
+ html {
+            scroll-behavior: smooth;
+        }
+        
+        body {
+            color: white;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            background-color: #1e1e1e;
+            text-align: center;
+        }
 
-<script>
-const countDownDate = new Date();
-countDownDate.setDate(countDownDate.getDate() + 14);
+        .nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #121212;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 45px;
+}
 
-const x = setInterval(function() {
-  const now = new Date().getTime();
-  const distance = countDownDate - now;
+.nav a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    transition: 0.2s;
+    margin: 20px;
+}
 
-  const weeks = Math.floor(distance / (1000 * 60 * 60 * 24 * 7));
-  const days = Math.floor((distance % (1000 * 60 * 60 * 24 * 7)) / (1000 * 60 * 60 * 24));
-  const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-  const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-  const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+.nav a:hover {
+    color: grey;
+}
 
-  document.getElementById("timer").innerHTML = weeks + " weeks " + days + " days " + hours + " hours " + minutes + " minutes " + seconds + " seconds ";
+.logo {
+    border-radius: 12px;
+    width: 40px;
+    height: auto;
+    vertical-align: middle;
+}
 
-  if (distance < 0) {
-    clearInterval(x);
-    document.getElementById("timer").innerHTML = "EXPIRED";
-  }
-}, 1000);
+.active {
+    background-color: purple;
+    padding: 13px;
+    border-radius: 25px;
+}
+
+.title {
+    font-size: 70px;
+}
+
+/* flexbox */
+.game-link {
+    height: 330px;
+    width: 250px;
+}
+
+.game-tile {
+    background-color: white;
+    height: 300px;
+    width: 220px;
+    color: white;
+    transition: 0.2s;
+    border-radius: 50px;
+    color: black;
+    padding: 3%;
+}
+
+.game-tile:hover {
+    text-decoration: none;
+    transform: scale(0.93);
+    cursor: pointer;
+    -webkit-box-shadow: 0px 0px 19px #000000;
+    -moz-box-shadow: 0px 0px 19px #000000;
+    box-shadow: 0px 0px 19px #000000;
+}
+
+.game-tile:active {
+  transform: scale(0.98);
+}
+
+.game-icon {
+    max-width: 90%;
+    margin: 5 10% auto;
+    border-radius: 50px;
+    place-items: center center;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    height: auto;
+    text-align: center;
+}
+
+.tile-title {
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    order: 0;
+    flex-grow: 0;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    repeat:(auto-fill, minmax(200px, 1fr))
+}
+
+a {
+    text-decoration: none;
+}
+
+.hyperlink {
+    text-decoration: none;
+    color: #0076ff;
+    scroll-behavior: smooth;
+}
+
+
+.hyperlink:hover {
+  text-decoration: underline;
+}
+
+#phrase {
+      margin: 60px;
+      font-size: 24px;
+      }
+
+      .line {
+  height: 1px;
+  width: 100%;
+  background-color: white;
+  margin-top: 90px;
+}
+
+  </style>
+</head>
+<body>
+      <div class="nav">
+        <a href="https://outred.github.io"><img class="logo" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/standard%20(3).gif"></a>
+        <a href="https://outred.github.io">Home</a>
+        <a href="https://outred.github.io/#g">Games</a>
+        <a href="/main/apps">Apps</a>
+        <a href="/main/hb">Unblocker</a>
+        <a class="active" href="/main/hacks">Hacks</a>
+        <a href="/main/settings">Settings</a>
+    </div>
+        <br>
+        <div class="elements">
+<!-- Start code here -->
+<h1 class="title">Hacks</h1>
+<h1>Coming Soon</h1>
+<br>
+<!-- End code here -->
+</div>
+          <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+    new Crate({
+        server: '1012472708010889217', // OutRed Hub
+        channel: '1056002719757914212' // #❌│website-chat
+    })
 </script>
-
+</body>
 </html>
