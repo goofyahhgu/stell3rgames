@@ -60,7 +60,7 @@ fetch('games.json')
       items.forEach(item => {
         const game = document.createElement('div');
         game.classList.add('game');
-        game.innerHTML = `<a href="${item.link}"><img src="${item.image}" alt="${item.title}"></a><h2><a href="${item.link}" target="_blank">${item.title}</a></h2>`;
+        game.innerHTML = `<a href="${item.link}"><img src="${item.image}" alt="${item.title}"></a><h2><a href="${item.link}">${item.title}</a></h2>`;
         gamesContainer.appendChild(game);
       });
     }
