@@ -7,12 +7,12 @@
     {
       "title": "Idle Breakout",
       "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/idlebreakout.png",
-      "link": "/idle-breakout"
+      "link": "/outred.github.io-idle-breakout/"
     },
     {
       "title": "Among Us",
       "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/amongus.jpg",
-      "link": "/g/amongus"
+      "link": "/g/among-us"
     },
     {
       "title": "1v1.lol",
@@ -22,7 +22,7 @@
     {
       "title": "Minecraft Java",
       "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/minecraft.png",
-      "link": "/eaglercraft"
+      "link": "/g/minecraft-18"
     },
     {
       "title": "Krunker",
@@ -32,7 +32,7 @@
     {
         "title": "Zombs Royale",
         "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/zombs.png",
-        "link": "/g/zombsroyale"
+        "link": "/g/zombs"
       },
       {
         "title": "You're Jeff Bezos",
@@ -42,12 +42,12 @@
       {
         "title": "Tunnel Rush",
         "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/tunnelrush.jpg",
-        "link": "/tunnelrush"
+        "link": "/tunnel-rush"
       },
       {
         "title": "Arena Scratch",
         "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/arena.png",
-        "link": "/arena"
+        "link": "/arena-scratch"
       },
       {
         "title": "Flappy Bird",
@@ -72,12 +72,12 @@
       {
         "title": "Dino Game 3D",
         "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/dino3d.webp",
-        "link": "/Dino-3D"
+        "link": "/dino3d"
       },
       {
         "title": "Worlds Hardest Game",
         "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/g/worlds-hardest-game/images/splash.jpg",
-        "link": "/g/worldshardestgame"
+        "link": "/g/worlds-hardest-game"
       },
       {
         "title": "Backrooms",
@@ -92,7 +92,7 @@
       {
         "title": "CS Go Clicker",
         "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/csgo-case-clicker.jpg",
-        "link": "/g/csgoclicker"
+        "link": "/g/csgo-clicker"
       },
       {
         "title": "Shell Shockers",
