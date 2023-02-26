@@ -1,4 +1,4 @@
-fetch('populargames.json')
+fetch('/js/json/populargames.json')
   .then(response => response.json())
   .then(data => {
     const gamesContainer = document.querySelector('.populargames');
