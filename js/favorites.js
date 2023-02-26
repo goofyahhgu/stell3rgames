@@ -12,7 +12,7 @@ fetch('favorites.json')
     });
   });
   */
-  fetch('/json/favorites.json')
+  fetch('js/json/favorites.json')
   .then(response => response.json())
   .then(data => {
     const gamesContainers = document.querySelectorAll('.games');
