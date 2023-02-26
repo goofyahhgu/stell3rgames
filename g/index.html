@@ -1,250 +1,62 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <title>OutRed | Games</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href='https://css.gg/search.css' rel='stylesheet'>
+    <script async src="https://arc.io/widget.min.js#U4o8gDrC"></script>
+  </head>
+  <body>
+    <!-- Start code -->
+    <div class="nav">
+      <a href="https://outred.github.io"><img class="logo" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/standard%20(3).gif"></a>
+      <a href="https://outred.github.io">Home</a>
+      <a class="active" href="#g">Games</a>
+      <a href="/main/apps">Apps</a>
+      <a class="alert" onclick="alert('Hello there!\n\ \n\The unblockers are now located under the apps page.');">Unblocker</a>
+      <a href="/main/hacks">Hacks</a>
+      <a href="/main/settings">Settings</a>
+      <div class="search-toggle"><i onclick="navSearch()" class="gg-search"></i></div>
+  </div>
+  <br>
+  <h1 class="title">Games</h1>
+  <h1>Hey you! Join the <a class="hyperlink" href="https://discord.gg/89NGVfR7ja">Discord server</a>!</h1>
+  <div class="line"></div>
+  <br>
+  <br>
+<!-- Image grid -->
+<div class="search">
+  <input type="text" class="search-input" placeholder="Search for games...">
+</div>
+<br>
+<br>
+    <center><div class="games"></div></center>
+    <br>
+    <br>
+    <!-- Script to file for image grid -->
+<script>
+  const input = document.getElementById("my-input");
 
-<head>
-    <title>OutRed Games</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+input.addEventListener("focus", function() {
+  input.classList.remove("center-placeholder");
+  input.classList.add("left-placeholder");
+});
 
-    <style>
-        body {
-    color: black;
-    text-align: center;
-    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-    background-size: 400% 400%;
-    animation: gradient 15s ease infinite;
-    height: 100vh;
-    font-weight: bold;
-    justify-content: center;
-    align-items: center;
-}
+input.addEventListener("blur", function() {
+  input.classList.remove("left-placeholder");
+  input.classList.add("center-placeholder");
+});
 
-a {
-    text-decoration: none;
-    color: black;
-}
-
-/* Gradient Background animation: */
-@keyframes gradient {
-    0% {
-        background-position: 0% 50%;
-    }
-
-    50% {
-        background-position: 100% 50%;
-    }
-
-    100% {
-        background-position: 0% 50%;
-    }
-}
-
-.title {
-    font-size: 60px;
-    font-weight: bold;
-}
-
-.game-link {
-    height: 330px;
-    width: 250px;
-}
-
-.game-tile {
-    background-color: white;
-    height: 300px;
-    width: 220px;
-    color: white;
-    transition: 0.2s;
-    border-radius: 50px;
-    color: black;
-    padding: 3%;
-}
-
-.game-tile:hover {
-    text-decoration: none;
-    transform: scale(0.95);
-    cursor: pointer;
-    -webkit-box-shadow: 0px 0px 19px #000000;
-    -moz-box-shadow: 0px 0px 19px #000000;
-    box-shadow: 0px 0px 19px #000000;
-}
-
-.game-icon {
-    max-width: 90%;
-    margin: 5 10% auto;
-    border-radius: 50px;
-    place-items: center center;
-    justify-content: center;
-    align-items: center;
-    display: block;
-    height: auto;
-    text-align: center;
-}
-
-.game-title {
-    text-align: center;
-}
-
-.flex-container {
-    display: flex;
-    flex-direction: row;
-    order: 0;
-    flex-grow: 0;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-    repeat:(auto-fill, minmax(200px, 1fr))
-}
-
-.container {
-    padding: 1px;
-}
-
-/* Footer */
-#page-container {
-  position: relative;
-  min-height: 100vh;
-}
-
-#content-wrap {
-  padding-bottom: 2.5rem;    /* Footer height */
-}
-
-#footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: 2.5rem;            /* Footer height */
-}
-
-    </style>
-</head>
-<body>
-    <!-- Template Tile
- <a href="URL_TO_GAME_GOES_HERE" class="game-link container">
-            <div class="game-tile"> <center><img class="game-icon" src="GAME_ICON_GOES_HERE" alt="icon" loading="lazy" /></center>
-                <h1 class="game-title">GAME_NAME_GOES_HERE</h1>
-            </div>
-        </a>
--->
-    <h1 class="title">All Games</h1>
-    <h2>NOTE: MORE GAMES GETTING ADDED THIS WEEK, BACKUPS MOVING SLOW</h2>
-    <div class="flex-container"> 
-        <!-- flex container stuff here -->
-         <a href="https://outred.github.io/g/boblox.html" class="game-link container">
-            <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/boblox.jpg" alt="icon" loading="lazy" /></center>
-                <h1 class="game-title">Roblox</h1>
-            </div>
-        </a>
-         <a href="https://outred.github.io/outred.github.io-idle-breakout/" class="game-link container">
-            <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/idlebreakout.png" alt="icon" loading="lazy" /></center>
-                <h1 class="game-title">Idle Breakout</h1>
-            </div>
-        </a>
-         <a href="https://outred.github.io/g/among-us/" class="game-link container">
-            <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/amongus.jpg" alt="icon" loading="lazy" /></center>
-                <h1 class="game-title">Among Us</h1>
-            </div>
-        </a>
-        <a href="https://outred.github.io/g/1v1lol/" class="game-link container">
-            <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/1v1.webp" alt="icon" loading="lazy" /></center>
-                <h1 class="game-title">1v1.lol</h1>
-            </div>
-        </a>
-         <a href="https://outred.github.io/g/minecraft-18/" class="game-link container">
-            <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/minecraft.png" alt="icon" loading="lazy" /></center>
-                <h1 class="game-title">Minecraft 1.8</h1>
-            </div>
-        </a>
-         <a href="https://outred.github.io/g/krunker.html" class="game-link container">
-            <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/krunker.png" alt="icon" loading="lazy" /></center>
-                <h1 class="game-title">Krunker</h1>
-            </div>
-        </a>
-        <a href="https://outred.github.io/g/zombs.html" class="game-link container">
-            <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/zombs.png" alt="icon" loading="lazy" /></center>
-                <h1 class="game-title">Zombs Royale</h1>
-            </div>
-        </a> <a href="https://outred.github.io/g/youarejeffbezos.html" class="game-link container">
-            <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/jeffbezos.jpg" alt="icon" loading="lazy" /></center>
-                <h1 class="game-title">You are Jeff Bezos</h1>
-            </div>
-        </a> <a href="https://outred.github.io/tunnel-rush/" class="game-link container">
-            <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/tunnelrush.jpg" alt="icon" loading="lazy" /></center>
-                <h1 class="game-title">Tunnel Rush</h1>
-            </div>
-        </a> <a href="https://outred.github.io/arena-scratch/" class="game-link container">
-            <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/arena.png" alt="icon" loading="lazy" /></center>
-                <h1 class="game-title">Arena (Scratch)</h1>
-            </div> </a>
-        <a href="https://outred.github.io/flappy/" class="game-link container">
-                <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/flappybird.png" alt="icon" loading="lazy" /></center>
-                    <h1 class="game-title">Flappy Bird</h1>
-                </div> </a>
-                <a href="https://outred.github.io/Slope-Game/" class="game-link container">
-            <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/38AD7E36-E391-451F-9BBA-AE8F85073A91.jpeg" alt="icon" loading="lazy" /></center>
-                <h1 class="game-title">Slope</h1>
-            </div>
-        </a>
-          <a href="https://outred.github.io/Cookie-Clicker-Source-Code/" class="game-link container">
-            <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/cookieclicker.png" alt="icon" loading="lazy" /></center>
-                <h1 class="game-title">Cookie Clicker</h1>
-            </div>
-        </a>
-        <a href="https://outred.github.io/2048/" class="game-link container">
-            <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/2048_logo.svg.webp" alt="icon" loading="lazy" /></center>
-                <h1 class="game-title">2048</h1>
-            </div>
-        </a>
-         <a href="https://outred.github.io/dino3d/" class="game-link container">
-            <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/dino3d.webp" alt="icon" loading="lazy" /></center>
-                <h1 class="game-title">Dino Game 3D</h1>
-            </div>
-        </a>
-            <a href="https://outred.github.io/g/worlds-hardest-game/" class="game-link container">
-            <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/g/worlds-hardest-game/images/splash.jpg" alt="icon" loading="lazy" /></center>
-                <h1 class="game-title">Worlds Hardest Game</h1>
-            </div>
-        </a>
-        <a href="https://outred.github.io/g/backrooms/" class="game-link container">
-            <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/backroomsimg.jpg" alt="icon" loading="lazy" /></center>
-                <h1 class="game-title">Backrooms</h1>
-            </div>
-        </a>
-         <a href="https://outred.github.io/g/paperio2/" class="game-link container">
-            <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/paper.jpg" alt="icon" loading="lazy" /></center>
-                <h1 class="game-title">Paper.io 2</h1>
-            </div>
-        </a>
-         <a href="https://outred.github.io/g/csgo-clicker/" class="game-link container">
-            <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/csgo-case-clicker.jpg" alt="icon" loading="lazy" /></center>
-                <h1 class="game-title">CS Go Clicker</h1>
-            </div>
-        </a>
-         <a href="https://outred.github.io/g/shellshockers/" class="game-link container">
-            <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/shellshock.png" alt="icon" loading="lazy" /></center>
-                <h1 class="game-title">Shell Shockers</h1>
-            </div>
-        </a>
-        <a href="https://outred.github.io/g/stormthehouse2/" class="game-link container">
-            <div class="game-tile"> <center><img class="game-icon" src="https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/storm-house-2.jpg" alt="icon" loading="lazy" /></center>
-                <h1 class="game-title">Storm the House 2</h1>
-            </div>
-        </a>
-    </div>
-    <div id="page-container">
-        <div id="content-wrap">
-          <!-- all other page content -->
-        </div>
-        <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
-    new Crate({
-        server: '1012472708010889217', // OutRed Support
-        channel: '1056002719757914212' // #❌│website-chat
-    })
 </script>
-        <footer id="footer"><p>© OutRed Games, 2023. Unauthorized use and/or duplication of this material without permission from OutRed is strictly prohibited. Please contact OutRed at his Discord OutRed#0001 for information.</p></footer>
-      </div>
-</body>
-
+    <script src="game.js"></script>
+    <script src="navsearch.js"></script>
+    <div class="line"></div>
+    <footer><h2>© OutRed 2023</h2></footer>
+    <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+      new Crate({
+          server: '1012472708010889217', // OutRed Hub
+          channel: '1056002719757914212' // #❌│website-chat
+      })
+  </script>
+  </body>
 </html>
