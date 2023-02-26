@@ -11,6 +11,11 @@
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4225845178810062"
      crossorigin="anonymous"></script>
      <script async src="https://arc.io/widget.min.js#U4o8gDrC"></script>
+     <!--  PWA LINKS -->
+     <link rel="manifest" href="./js/json/manifest.json" />
+     <meta name="theme-color" content="#6C0BA9"/>
+     
+
      <!-- For dynamic phrases -->
      <script>
         const phrases = [
@@ -291,6 +296,12 @@ if (document.cookie.indexOf('popupShown=') == -1) {
           server: '1012472708010889217', // OutRed Hub
           channel: '1056002719757914212' // #❌│website-chat
       })
+  </script>
+  <!-- PWA Offline script for the server worker-->
+  <script>
+  if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("/js/sw.js");
+  }
   </script>
 </body>
 </html>

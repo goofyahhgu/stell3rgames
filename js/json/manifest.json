@@ -1,0 +1,22 @@
+{
+    "name": "OutRed Games",
+    "short_name": "OutRed",
+    "description": "This Website App offers games to play, unblockers, and much more.",
+    "icons": [
+      {
+        "src": "icons/icon-32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/index.html",
+    "display": "fullscreen",
+    "theme_color": "#6C0BA9",
+    "background_color": "#1e1e1e"
+  }
+  
