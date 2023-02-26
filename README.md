@@ -6,6 +6,7 @@
 This website offers games to play, unblockers, and much more.
 ## Features
 - Clean UI
+- Installable as a PWA ( Run Offline! )
 - Games
 - 2 Unblockers
 - Apps
