@@ -10,11 +10,6 @@
         "link": "/main/redirectchatroom"
     },
     {
-        "title": "Essay Maker",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/essayimg.jpg",
-        "link": "/main/essay"
-    },
-    {
         "title": "Meme SFX",
         "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/sfximg.jpg",
         "link": "/main/sfx"
