@@ -239,6 +239,9 @@
     <br>
     <br>
     <!-- Start code here -->
+    <div id="myDIV">
+This URL will no longer be updated. The new URL is <a class="hyperlink" href="https://outred.org">outred.org</a>. This website will remain fully functional but without updates. <br><br><button onclick="myFunction()">Continue to outdated website</button>
+</div>
     <h1 class="title">OutRed Games</h1>
     <div id="phrase">
         <script>
@@ -294,6 +297,16 @@ if (document.cookie.indexOf('popupShown=') == -1) {
 }
 
     </script>
+    <script>
+function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
     <script src="/js/favorites.js"></script>
     <script src="/js/loading.js"></script>
     <script src="/js/populargames.js"></script>
