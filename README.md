@@ -1,6 +1,6 @@
 ![outred.github.io](https://socialify.git.ci/OutRed/outred.github.io/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 
-# (OUTDATED) Deployable Version of [outred.org](https://outred.org) v3 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOutRed%2Foutred.github.io&count_bg=%236BA83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Page+Visits&edge_flat=false"/></a>
+# OutRed Games <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOutRed%2Foutred.github.io&count_bg=%236BA83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Page+Visits&edge_flat=false"/></a>
 <img src="https://invidget.switchblade.xyz/9qYmpWS8ve?theme=dark)](https://discord.gg/9qYmpWS8ve" alt="discord"></img>
 ## [Play Here!](https://outred.github.io/)
 This website offers games to play, unblockers, and much more.
@@ -15,7 +15,7 @@ This website offers games to play, unblockers, and much more.
 - Meme Soundboard ✱
 - Hacks to Educational Games ✱
 ## Deploy Unblocked Copy (Note: Some games will not work on other links due to compatibility)
-[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/OutRed/outred.github.io)
+[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/ccsgames/outred-static)
 ## Links:
 - https://outred.github.io
 - https://outred-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
@@ -38,8 +38,8 @@ If you would like to add a game, you can do so [by clicking here](https://github
 
 - [OutRed](https://www.github.com/OutRed)
 
-## Liscence
-You may fork this repo to deploy an unblocked copy, but you must do it according to the liscence. You may not use the fork in a closed source manner, nor may you use it for commercial use, and you may not modify it in any way.
+## Licence
+You may fork this repo to deploy an unblocked copy, but you must do it according to the licence. You may not use the fork in a closed source manner, nor may you use it for commercial use, and you may not modify it in any way.
 
 
 ✱ In beta, will not work until removed.
