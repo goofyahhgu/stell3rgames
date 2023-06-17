@@ -27,10 +27,10 @@ This website offers games to play, unblockers, and much more.
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/OutRed/outredgames)
 
 ## Free Links:
-https://outred.org
-https://outred.dev
-https://outreds.world
-Join the [Discord server](https://discord.gg/89NGVfR7ja) for more free premium links tysm...
+- https://outred.org
+- https://outred.dev
+- https://outreds.world
+- Join the [Discord server](https://discord.gg/89NGVfR7ja) for more free premium links tysm...
 
 ## Contributing
 To contribute to this project, make a pull request and I'll review it. If it works well with everything else in this repo, I'll add it. Keep that in mind.
