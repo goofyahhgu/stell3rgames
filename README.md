@@ -51,6 +51,6 @@ If you would like to add a game, you can do so [by clicking here](https://github
 - [Fowntain](https://github.com/fowntain)
 
 ## Licence
-You may fork this repo to deploy a copy, but you must do it according to the licence. You may not use the fork in a closed source manner, nor may you use it for commercial use, and you may not modify it in any way. There's probably other stuff in the license that I haven't read but just follow those main points that were listed.
+You may fork this repo to deploy a copy, but you must do it according to the licence. You may not use the fork in a closed source manner, nor may you use it for commercial use, and you may not modify it in any way. You can modify your fork if you are going to make a pull request. There's probably other stuff in the license that I haven't read but just follow those main points that were listed.
 
 ✱ In beta, will not work until removed.
