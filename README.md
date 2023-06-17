@@ -1,4 +1,4 @@
-[![outred.github.io](https://socialify.git.ci/OutRed/outredgames/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
+![outred.github.io](https://socialify.git.ci/OutRed/outredgames/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 
 # OutRed Games <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOutRed%2Foutred.github.io&count_bg=%236BA83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Page+Visits&edge_flat=false"/></a>
 <img src="https://invidget.switchblade.xyz/9qYmpWS8ve?theme=dark)](https://discord.gg/9qYmpWS8ve" alt="discord"></img>
@@ -14,8 +14,18 @@ This website offers games to play, unblockers, and much more.
 - Unblocked Apps
 - Meme Soundboard ✱
 - Hacks to Educational Games ✱
-## Deploy
-[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/outred/outredgames)
+## Deploy Options
+[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/OutRed/outredgames)
+[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://github.com/OutRed/outredgames)
+[![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/OutRed/outredgames)
+[![Deploy to IBM Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/ibmcloud.svg)](https://cloud.ibm.com/devops/setup/deploy?repository=https://github.com/OutRed/outredgames)
+[![Deploy to Amplify Console](https://binbashbanana.github.io/deploy-buttons/buttons/remade/amplifyconsole.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/OutRed/outredgames)
+[![Run on Google Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/googlecloud.svg)](https://deploy.cloud.run/?git_repo=https://github.com/BinBashBanana/OutRed/outredgames)
+[![Deploy to Oracle Cloud](https://binbashbanana.github.io/deploy-buttons/buttons/remade/oraclecloud.svg)](https://cloud.oracle.com/resourcemanager/stacks/create?zipUrl=https://github.com/OutRed/outredgames/archive/refs/heads/main.zip)
+[![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FOutRed%2Foutredgames) 
+[![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/OutRed/outredgames)
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/OutRed/outredgames)
+
 ## Links:
 Join the Discord server for more links...
 
