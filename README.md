@@ -1,7 +1,6 @@
 ![outred.github.io](https://socialify.git.ci/OutRed/outredgames/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 
-# OutRed Games [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOutRed%2Foutredgames&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Repo+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
-<img src="https://invidget.switchblade.xyz/89NGVfR7ja?theme=dark)](https://discord.gg/89NGVfR7ja)" alt="discord"></img>
+# OutRed Games [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOutRed%2Foutredgames&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Repo+Visits&edge_flat=false)](https://hits.seeyoufarm.com) (Removed old counter, so it reset, that's why it's so low 😔)
 ## [Play Here!](https://outred.org)
 This website offers games to play, unblockers, and much more.
 ## Features
