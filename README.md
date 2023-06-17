@@ -1,45 +1,43 @@
-![outred.github.io](https://socialify.git.ci/OutRed/outredgames/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
+[![outred.github.io](https://socialify.git.ci/OutRed/outredgames/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 
 # OutRed Games <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOutRed%2Foutred.github.io&count_bg=%236BA83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23E7E7E7&title=Page+Visits&edge_flat=false"/></a>
 <img src="https://invidget.switchblade.xyz/9qYmpWS8ve?theme=dark)](https://discord.gg/9qYmpWS8ve" alt="discord"></img>
-## [Play Here!](https://outred.github.io/)
+## [Play Here!](https://outred.org)
 This website offers games to play, unblockers, and much more.
 ## Features
 - Clean UI
 - Installable as a PWA (Run Offline!)
 - Games
-- 2 Unblockers
+- 2 Unblockers (Broken)
 - Apps
 - About:blank Embedder
 - Unblocked Apps
 - Meme Soundboard ✱
 - Hacks to Educational Games ✱
-## Deploy Unblocked Copy (Note: Some games will not work on other links due to compatibility)
-[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/ccsgames/outred-static)
+## Deploy
+[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/outred/outredgames)
 ## Links:
-- https://outred.github.io
-- https://outred-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
-- https://outred-repl.joemomma1234.repl.co/
-- https://outred-io-site.vercel.app/
-- https://outredio-outred.vercel.app/
-- https://outredsite-outred.vercel.app/
-- (More coming soon)
+Join the Discord server for more links...
 
 ## Contributing
 To contribute to this project, make a pull request and I'll review it. If it works well with everything else in this repo, I'll add it. Keep that in mind.
 ## [Join the Discord Server](https://discord.gg/s8Z4tsExcd)
 
-If you have any feedback, please reach out to me [here](https://github.com/OutRed/outred.github.io/discussions/17). I are open to anything! My goal is to make this the best game website there is EVER.
+If you have any feedback, please reach out to me [here](https://github.com/OutRed/outredgames/discussions/17). I are open to anything! My goal is to make this the best game website there is EVER.
 
 
-## [Add a Game](https://github.com/OutRed/outred.github.io/discussions/15)
+## [Add a Game](https://github.com/OutRed/outredgames/discussions/15)
 If you would like to add a game, you can do so [by clicking here](https://github.com/OutRed/outred.github.io/discussions/15). We want to make this website full of your favorite games and now you can do that!
-## Owner/Creator/Author
+## Developers
 
-- [OutRed](https://www.github.com/OutRed)
+- [OutRed (Owner/Creator)](https://www.github.com/OutRed)
+- [CycloKid](https://github.com/cyclokid)
+- [Sillyangel](https://github.com/sillyangel)
+- [DudeThatsErin](https://github.com/DudeThatsErin)
+- [3kh0](https://github.com/3kh0)
+- [Fowntain](https://github.com/fowntain)
 
 ## Licence
-You may fork this repo to deploy an unblocked copy, but you must do it according to the licence. You may not use the fork in a closed source manner, nor may you use it for commercial use, and you may not modify it in any way.
-
+You may fork this repo to deploy a copy, but you must do it according to the licence. You may not use the fork in a closed source manner, nor may you use it for commercial use, and you may not modify it in any way. There's probably other stuff in the license that I haven't read but just follow those main points that were listed.
 
 ✱ In beta, will not work until removed.
