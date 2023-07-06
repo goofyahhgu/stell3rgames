@@ -45,8 +45,5 @@ Thank you to all the contributors!
 
 [![Contrib](https://contrib.rocks/image?repo=OutRed/outredgames#)](https://github.com/OutRed/outredgames/graphs/contributors)
 
-## For the Haters
-For those of you thinking I'm a skid, screw you. I don't steal peoples code. Also, for the game ripping, why would I spend time ripping games when someone has already done it for me 😂?! (ty 3kh0 for doing the dirty work)
-
 ## Licence
 You may fork this repo to deploy a copy, but you must do it according to the licence. You may not use the fork in a closed source manner, nor may you use it for commercial use, and you may not modify it in any way. You can modify your fork if you are going to make a pull request. There's probably other stuff in the license that I haven't read but just follow those main points that were listed.
