@@ -38,15 +38,13 @@ If you have any feedback, please reach out to me [here](https://github.com/OutRe
 
 
 ## [Add a Game](https://github.com/OutRed/outredgames/discussions/15)
-If you would like to add a game, you can do so [by clicking here](https://github.com/OutRed/outred.github.io/discussions/15). We want to make this website full of your favorite games and now you can do that! yup
+If you would like to add a game, you can do so [by clicking here](https://github.com/OutRed/outred.github.io/discussions/15). We want to make this website full of your favorite games and now you can do that! 
+
 ## Contributors
 
 Thank you to all the contributors!
 
 [![Contrib](https://contrib.rocks/image?repo=OutRed/outredgames#)](https://github.com/OutRed/outredgames/graphs/contributors)
-
-## For the Haters
-For those of you thinking I'm a skid, screw you. I don't steal peoples code. Also, for the game ripping, why would I spend time ripping games when someone has already done it for me 😂?! (ty 3kh0 for doing the dirty work)
 
 ## Licence
 You may fork this repo to deploy a copy, but you must do it according to the licence. You may not use the fork in a closed source manner, nor may you use it for commercial use, and you may not modify it in any way. You can modify your fork if you are going to make a pull request. There's probably other stuff in the license that I haven't read but just follow those main points that were listed.
