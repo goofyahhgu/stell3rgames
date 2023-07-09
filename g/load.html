@@ -108,13 +108,13 @@ li:active {
     <div class="game-frame-div" style="margin: 0 auto;">
       <iframe id="game-frame" scrolling="yes" frameborder="0" cellspacing="0" src="#"></iframe>
 <div class="bar">
-    <h1 style="font-weight: normal; text-align: left;" id="g-name">No game title yet</h1>
+    <h1 style="font-weight: normal; text-align: left;" id="g-name">No game title provided</h1>
     <div class="buttons">
       <div><img class="fullscreen-svg" onclick="fullscreenFunction()" src="/img/fullscreen-icon.php.png" draggable="false"></div>
       <div><img class="share-icon" onclick="showSharePopup()" src="/img/share-icon.png" draggable="false"></div>
     </div>
   </div>
-      <p style="font-weight: normal; text-align: left;" id="g-description">No game description yet</p>
+      <p style="font-weight: normal; text-align: left;" id="g-description">No description provided</p>
       </div>
     </div>
       <div class="line"></div>
@@ -123,6 +123,48 @@ li:active {
       <br>
     </div>
     </div>
+
+      <script>
+function showSharePopup() {
+    var gameUrl = document.getElementById("game-frame").src;
+    var encodedGameUrl = encodeURIComponent(gameUrl);
+    var shareUrl = "https://outred.org/g/load.html?src=" + encodedGameUrl;
+
+    var popup = document.createElement("div");
+    popup.className = "share-popup";
+
+    var text = document.createElement("div");
+    text.className = "popup-text";
+    text.textContent = "Copy this link and share it with someone so they can play too!";
+
+    var encodedUrl = document.createElement("div");
+    encodedUrl.className = "encoded-url";
+    encodedUrl.textContent = shareUrl;
+
+    var copyButton = document.createElement("button");
+    copyButton.className = "copy-button";
+    copyButton.textContent = "Copy";
+    copyButton.addEventListener("click", function() {
+        copyToClipboard(shareUrl);
+        alert("Link copied to clipboard!");
+    });
+
+    var closeButton = document.createElement("span");
+    closeButton.className = "close-button";
+    closeButton.textContent = "X";
+    closeButton.addEventListener("click", function() {
+        document.body.removeChild(popup);
+    });
+
+    popup.appendChild(text);
+    popup.appendChild(encodedUrl);
+    popup.appendChild(copyButton);
+    popup.appendChild(closeButton);
+
+    document.body.appendChild(popup);
+}
+  </script>
+      <!-- testing stuff 
     <script>
       function showSharePopup() {
         var gameUrl = document.getElementById("game-frame").src;
@@ -172,6 +214,9 @@ li:active {
         document.body.removeChild(textarea);
       }
     </script>
+
+-->
+      
     <!-- share script 
     <script>
         function showSharePopup() {
