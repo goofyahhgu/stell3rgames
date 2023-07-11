@@ -12,7 +12,7 @@ This website offers games to play, unblockers, and much more.
 - Apps
 - About:blank Embedder
 - Unblocked Apps
-## Deploy Options
+## Deploy a Copy
 [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/OutRed/outredgames)
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://github.com/OutRed/outredgames)
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/OutRed/outredgames)
