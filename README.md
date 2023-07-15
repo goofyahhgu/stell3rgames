@@ -3,6 +3,7 @@
 # OutRed Games [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOutRed%2Foutredgames&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Repo+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 (Removed old counter ^^^, so it reset, that's why it's so low 😔)
 <p align="center"><img src="https://invidget.switchblade.xyz/PBmrGy8EPh?theme=dark)]([https://discord.gg/PBmrGy8EPh](https://discord.gg/PBmrGy8EPh)" alt="discord"></img></p>
+
 ## [Play Here!](https://outred.org)
 This website offers games to play, unblockers, and much more.
 ## Features
